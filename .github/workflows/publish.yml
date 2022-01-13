@@ -36,8 +36,8 @@ jobs:
     - name: Export notes
       run: npx dendron publish export --target github --yes
 
-    - name: Add Custom Domian
-      run: "echo \"glucknotes.com\" > build/CNAME"
+    - name: Add Custom Domain
+      run: "echo \"glucknotes.com\" > CNAME"
       
 
     - name: Deploy site
