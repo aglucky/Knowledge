@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642008279841
+updated: 1642050179849
 created: 1641833454971
 ---
 
@@ -31,13 +31,16 @@ The position vector of point P in the coordinate plane is the vector of $\vec{OP
 
 Tip to Tail method
 
-#### Example
+**Example**
+
 $\langle 1,2 \rangle +\langle 3,2 \rangle = \langle 4,4 \rangle$
 
 ### Scalar Multiplication
 If $c \epsilon  {\rm I\!R}$, $c\vec{A}$ is defined to be the vector that is $|c|$ times as long as $\vec{A}$, in the same direction as $\vec{A}$ idf $c>0$ and in the opposite direction if $C<0$
 
-Example: $\vec{A} = \langle 1,2 \rangle$
+**Example**
+
+$\vec{A} = \langle 1,2 \rangle$
 
 $2\vec{A}= 2*\langle 1,2 \rangle =\langle 2,4 \rangle$
 ### Subtraction
@@ -45,7 +48,8 @@ $2\vec{A}= 2*\langle 1,2 \rangle =\langle 2,4 \rangle$
 ### Finding Magnitude
 Pythagorean Theorem
 
-#### Example
+**Example**
+
 Find $|\vec{A}|$ when $\vec{A} = \langle 2,3 \rangle$
 
 $|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
@@ -56,7 +60,8 @@ $|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
 #### Definition
 A vector of length 1
 
-#### Example
+**Example**
+
  Given a vector $\vec{A} = \langle 2,3 \rangle$, can you find a unit vector in the same direction.
 
 **Steps To Find**
@@ -67,7 +72,8 @@ A vector of length 1
 - ** $i$ ➡️ $\langle 1,0 \rangle$**
 - ** $j$ ➡️ $\langle 0,1 \rangle$**
 
-#### Example
+**Example**
+
 $u = \langle -5,6 \rangle$  ➡️  $u=-5i+6j$
 $j = \langle 3,2 \rangle$  ➡️  $u=3i+2j$
 
@@ -102,7 +108,8 @@ $(x-x_0)^2+(y-y_0)^2=r^2$
 ### Equation for 3D Sphere
 $(x-x_0)^2+(y-y_0)^2+ (z-z_0)^2=r^2$
 
-#### Example
+**Example**
+
 Find description of the points that lie on the intersection of the sphere $x^2+y^2+z^2=36$ and the plane $z=6$
 
 ##### Steps
@@ -122,7 +129,8 @@ Find description of the points that lie on the intersection of the sphere $x^2+y
 ### Definition
 A dot product of two vectors returns a scalar
 
-#### Equation
+**Equation**
+
 $\vec{U}=\langle U_1,U_2,U_3\rangle$
 
 $\vec{V}=\langle V_1,V_2,V_3\rangle$
