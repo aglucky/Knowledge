@@ -38,8 +38,7 @@ jobs:
 
     - name: Add Custom Domian
       run: "echo \"glucknotes.com\" > build/CNAME"
-      with:
-        publish_branch: pages
+      
 
     - name: Deploy site
       uses: peaceiris/actions-gh-pages@v3
