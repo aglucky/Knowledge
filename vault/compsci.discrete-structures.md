@@ -2,13 +2,13 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1641941314870
+updated: 1642098826552
 created: 1640155043932
 tags: school
 ---
 
 ## Outline
-- Propositional and first-order logic
+- [Propositional](/assets/FonOne/PropositionalLogic.pdf) and [Predicate](/assets/FonOne/PredicateLogic.pdf) Logic
 - Basic Proof Techniques
 - Graphs
 - Trees
