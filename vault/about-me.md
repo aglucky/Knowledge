@@ -2,7 +2,7 @@
 id: qOJzIEotdsQJofSSb7Vaw
 title: About Me
 desc: ''
-updated: 1642047368156
+updated: 1642093884546
 created: 1640331332806
 social:
   linkedin: https://www.linkedin.com/in/adam-gluck-111a2a174/
@@ -11,7 +11,7 @@ contact:
   email: Gluck.36@osu.edu
 ---
 
-![Picture of me](/assets/images/2022-01-12-22-46-08.png){max-width: 150px, display: block, margin: 0}
+![Picture of me](/assets/images/adam.jpg){max-width: 150px, display: block, margin: 0}
 ## Summary
 test
 

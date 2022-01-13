@@ -10,6 +10,7 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
+    logo: vault/assets/images/logo.png
     siteUrl: 'https://glucknotes.com'
     usePrettyRefs: true
     title: Gluck Notes
