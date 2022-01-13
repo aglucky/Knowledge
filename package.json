@@ -9,7 +9,7 @@
   "author": "Kevin <kevin@dendron.so>",
   "license": "MIT",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.75.0"
+    "@dendronhq/dendron-cli": "*"
   },
   "description": "- VS Code Text Editor\r - Dendron Platfrom\r - Netlify Hosting\r - $5 Namecheap Domain",
   "bugs": {
