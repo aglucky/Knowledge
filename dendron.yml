@@ -10,10 +10,10 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
-    siteUrl: 'https://dendronhq.github.io'
-    assetsPrefix: /template.publish.github-action
+    siteUrl: 'https://aglucky.github.io'
+    assetsPrefix: /knowledge
     usePrettyRefs: true
-    title: Dendron
+    title: Gluck Notes
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main

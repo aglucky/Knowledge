@@ -2,10 +2,22 @@
   "name": "template.publish.github-action",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/dendronhq/template.publish.github-action.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dendronhq/template.publish.github-action.git"
+  },
   "author": "Kevin <kevin@dendron.so>",
   "license": "MIT",
   "dependencies": {
-    "@dendronhq/dendron-cli": "*"
-  }
+    "@dendronhq/dendron-cli": "^0.75.0"
+  },
+  "description": "- VS Code Text Editor\r - Dendron Platfrom\r - Netlify Hosting\r - $5 Namecheap Domain",
+  "bugs": {
+    "url": "https://github.com/dendronhq/template.publish.github-action/issues"
+  },
+  "homepage": "https://github.com/dendronhq/template.publish.github-action#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
