@@ -11,7 +11,7 @@ site:
         - root
     siteRootDir: docs
     siteUrl: 'https://aglucky.github.io'
-    assetsPrefix: /knowledge
+    assetsPrefix: /knowledge2
     usePrettyRefs: true
     title: Gluck Notes
     description: Personal knowledge space
