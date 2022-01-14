@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642184044450
+updated: 1642184733237
 created: 1641833454971
 ---
 
@@ -48,12 +48,7 @@ If $c \epsilon  {\rm I\!R}$, $c\vec{A}$ is defined to be the vector that is $|c|
 Pythagorean Theorem
 
 **Example**
-
-Find $|\vec{A}|$ when $\vec{A} = \langle 2,3 \rangle$
-
-$|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
-
-^magnitude
+![[math.vectors.problems#Magnitude,1:#*]]
 
 ### Unit Vector
 

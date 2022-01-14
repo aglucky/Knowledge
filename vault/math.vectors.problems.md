@@ -2,7 +2,7 @@
 id: Ir3Zj3tX8BozLturMJSPg
 title: Problems
 desc: ''
-updated: 1642184090723
+updated: 1642184298053
 created: 1642179068201
 ---
 
@@ -17,6 +17,13 @@ created: 1642179068201
 2. $2\vec{A}= 2*\langle 1,2 \rangle =\langle 2,4 \rangle$
 
 ^scalar-mult
+
+### Magnitude
+Find $|\vec{A}|$ when $\vec{A} = \langle 2,3 \rangle$
+
+$|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
+
+^magnitude
 
 ### Circles/Spheres
 #### Equation for 2D Circle
