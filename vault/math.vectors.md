@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642181700888
+updated: 1642184044450
 created: 1641833454971
 ---
 
@@ -34,14 +34,17 @@ Tip to Tail method
 $\vec{U}+\vec{V}=\langle U_1+V_1+U_2,V_2\rangle$
 
 **Example**
-![[math.vectors.problems#^Addition]]
+![[math.vectors.problems#^addition]]
 
 ### Scalar Multiplication
 If $c \epsilon  {\rm I\!R}$, $c\vec{A}$ is defined to be the vector that is $|c|$ times as long as $\vec{A}$, in the same direction as $\vec{A}$ idf $c>0$ and in the opposite direction if $C<0$
 
-### Subtraction
+**Example**
+
+![[math.vectors.problems#^scalar-mult]]
 
 ### Finding Magnitude
+
 Pythagorean Theorem
 
 **Example**
@@ -50,6 +53,7 @@ Find $|\vec{A}|$ when $\vec{A} = \langle 2,3 \rangle$
 
 $|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
 
+^magnitude
 
 ### Unit Vector
 

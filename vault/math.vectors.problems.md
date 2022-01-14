@@ -2,25 +2,21 @@
 id: Ir3Zj3tX8BozLturMJSPg
 title: Problems
 desc: ''
-updated: 1642181687456
+updated: 1642184090723
 created: 1642179068201
 ---
 
-### Vector Operations
-
-#### Addition
+### Addition
 1. $\vec{A}=\langle 1,2 \rangle$
 2. $\vec{B}=\langle 3,2 \rangle$
 3. $\vec{A}+\vec{B}=\langle 1,2 \rangle +\langle 3,2 \rangle = \langle 4,4 \rangle$
 
-^Addition
-#### Scalar Multiplication
-**Example**
+^addition
+### Scalar Multiplication
+1. $\vec{A} = \langle 1,2 \rangle$
+2. $2\vec{A}= 2*\langle 1,2 \rangle =\langle 2,4 \rangle$
 
-$\vec{A} = \langle 1,2 \rangle$
-
-$2\vec{A}= 2*\langle 1,2 \rangle =\langle 2,4 \rangle$
-
+^scalar-mult
 
 ### Circles/Spheres
 #### Equation for 2D Circle
