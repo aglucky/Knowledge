@@ -2,7 +2,7 @@
 id: dNglx9E2Q0wCABrKbfknx
 title: Development and Design
 desc: CSE 2231
-updated: 1642605848198
+updated: 1642609501477
 created: 1640155841508
 tags: school
 ---
@@ -18,7 +18,7 @@ tags: school
 ## Resources
 
 - **OSU Official**
-  - [Syllabus](assets/spr22/CSE2231.pdf)
+  - [Syllabus](/assets/spr22/CSE2231.pdf)
   - [Calendar](http://web.cse.ohio-state.edu/software/2231/web-sw2/schedule.html)
   - [OSU Components](http://web.cse.ohio-state.edu/software/common/doc/)
 
