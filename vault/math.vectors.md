@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642610686159
+updated: 1642612781010
 created: 1641833454971
 ---
 
@@ -137,6 +137,42 @@ $proj_{\vec{U}}\vec{V}= \frac{\vec{U}}{|\vec{U}|}|\vec{V}|\cos{\theta}$
 
 ### Cross Product
 #### Definition
-Given two nonzero vectors $U$ and $V$
+Given two nonzero vectors $u$ and $v$ in ${\rm I\!R}^3$, the cross product is defined as $\vec{u} \times \vec{v} = |\vec{u}||\vec{u}|\sin{\theta}\vec{n}$ where $0\leq\theta\leq\pi$ is the angle between $\vec{u}$ and $\vec{v}$ and $\vec{n}$ is the unit vector which is normal (perpendicular) to $\vec{u}$ and $\vec{v}$ whose direction is determined by the right hand rule
 
 **Equation**
+$\vec{u} \times \vec{v} = |\vec{u}||\vec{u}|\sin{\theta}\vec{n}$
+
+#### Key Notes
+- $\vec{u}$ and $\vec{v}$ are parallel if and only if $\vec{u}\times\vec{v}=0$
+- If $\vec{u}$ and $\vec{v}$ are two sides of a parallelogram, then the area of the paralllelogram is $|\vec{u}\times\vec{v}| = |\vec{u}||\vec{v}|\sin{\theta}$
+- $\vec{v}\times\vec{u}=-(\vec{u}\times\vec{v})$
+- $\vec{u}\times\vec{v}$ is orthogonal to $\vec{u}$ and $\vec{v}$ which means that $(\vec{u}\times\vec{v})\cdot\vec{u} = 0$ and $(\vec{u}\times\vec{v})\cdot\vec{v} = 0$
+
+### Cross Product Distribution
+
+#### With respect to addition
+- $\vec{u}\times(\vec{v}+\vec{w}) = \vec{u}\times\vec{v} + \vec{u}\times\vec{w}$
+
+- $(\vec{u}+\vec{v})\times\vec{w} = \vec{u}\times\vec{w} + \vec{v}\times\vec{w}$
+
+#### If c is a scalar
+-$(c\vec{u}\times\vec{v}=c(\vec{u}\times\vec{v})=u\times(c\vec{v})$
+
+### Cross Products of Unit Vectors
+
+```mermaid
+flowchart LR
+    i --> j --> k
+    k --> i
+```
+- $\^{i}\times\^{j}=\^{k}$
+- $\^{j}\times\^{k}=\^{i}$
+- $\^{k}\times\^{i}=\^{j}$
+-------
+- $\^{j}\times\^{i}=-\^{k}$
+- $\^{k}\times\^{j}=-\^{i}$
+- $\^{i}\times\^{k}=-\^{j}$
+-------
+- $\^{i}\times\^{i}=0$
+- $\^{j}\times\^{j}=0$
+- $\^{k}\times\^{k}=0$
