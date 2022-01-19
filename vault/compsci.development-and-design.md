@@ -2,7 +2,7 @@
 id: dNglx9E2Q0wCABrKbfknx
 title: Development and Design
 desc: CSE 2231
-updated: 1641941642702
+updated: 1642605848198
 created: 1640155841508
 tags: school
 ---
@@ -26,6 +26,5 @@ tags: school
   - [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/)
   - [CMU](https://www.cs.cmu.edu/~mjs/121/)
   - [Stanford](https://web.stanford.edu/class/cs166/)
-  - [Harvard](https://sites.fas.harvard.edu/~cscie22/)
   - [UMich](https://web.eecs.umich.edu/~aprakash/eecs282/)
   - [Berkeley1](https://inst.eecs.berkeley.edu/~cs61b/fa21/) & [Berkeley2](https://people.eecs.berkeley.edu/~jrs/61bf/)

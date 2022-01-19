@@ -2,13 +2,13 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1642098826552
+updated: 1642607830354
 created: 1640155043932
 tags: school
 ---
 
 ## Outline
-- [Propositional](/assets/FonOne/PropositionalLogic.pdf) and [Predicate](/assets/FonOne/PredicateLogic.pdf) Logic
+- [Propositional](/assets/spr22/FndtionOne/PropositionalLogic.pdf) and [Predicate](/assets/spr22/FndtionOne/PredicateLogic.pdf) Logic
 - Basic Proof Techniques
 - Graphs
 - Trees
@@ -21,8 +21,8 @@ tags: school
 
 
 - **OSU Official**
-  - [Syllabus](/assets/spr22/CSE2321.pdf)
-  - [Book](/assets/spr22/CLRS.pdf)
+  - [Syllabus](/assets/spr22/FndtionOne/CSE2321.pdf)
+  - [Book](/assets/spr22/FndtionOne/CLRS.pdf)
   
 - **OCW**
   - [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
