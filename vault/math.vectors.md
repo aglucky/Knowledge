@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642184733237
+updated: 1642610686159
 created: 1641833454971
 ---
 
@@ -97,6 +97,15 @@ Represented as $\overrightarrow{P_1P_2}$
 #### Finding Length
 $|f\overrightarrow{P_1P_2}| = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2 + (z_2-z_1)^2}$
 
+### Circles/Spheres
+#### Equation for 2D Circle
+$(x-x_0)^2+(y-y_0)^2=r^2$
+
+#### Equation for 3D Sphere
+$(x-x_0)^2+(y-y_0)^2+ (z-z_0)^2=r^2$
+
+**Example**
+![[Problems|math.vectors.problems#^scirclesphere:#^circlesphere]]
 ### Dot Product
 
 #### Definition
@@ -120,14 +129,14 @@ Two vectors are orthogonal if $\vec{U}\cdot\vec{V}=0$. In 2D and 3D spaces, orth
 - There are an infinite number of orthogonal vectors to any one vector when length is not specified
 - 
 #### Projections
-The orthogonal projectio is a vector that goes along $\vec{U}$ with length $|\vec{V}|\cos{\theta}$
+The orthogonal projection is a vector that goes along $\vec{U}$ with length $|\vec{V}|\cos{\theta}$
 
 **Equation**
 
 $proj_{\vec{U}}\vec{V}= \frac{\vec{U}}{|\vec{U}|}|\vec{V}|\cos{\theta}$
 
 ### Cross Product
-
 #### Definition
+Given two nonzero vectors $U$ and $V$
 
 **Equation**

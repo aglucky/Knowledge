@@ -2,7 +2,7 @@
 id: Ir3Zj3tX8BozLturMJSPg
 title: Problems
 desc: ''
-updated: 1642184298053
+updated: 1642610607830
 created: 1642179068201
 ---
 
@@ -25,18 +25,12 @@ $|\vec{A}|= \sqrt{2^2+3^2} =\sqrt{13}$
 
 ^magnitude
 
-### Circles/Spheres
-#### Equation for 2D Circle
-$(x-x_0)^2+(y-y_0)^2=r^2$
 
-#### Equation for 3D Sphere
-$(x-x_0)^2+(y-y_0)^2+ (z-z_0)^2=r^2$
-
-**Example**
-
+### Circles and Spheres
+^scirclesphere
 Find description of the points that lie on the intersection of the sphere $x^2+y^2+z^2=36$ and the plane $z=6$
 
-##### Steps
+**Steps**
 1. Find the center 
    1. Located at $(0,0,0)$
 2. Plug plane values into sphere equation
@@ -47,3 +41,5 @@ Find description of the points that lie on the intersection of the sphere $x^2+y
    2. $y=0$
 4. Answer
    1. $(0,0,6)$
+^circlesphere
+### Next
