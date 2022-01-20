@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642696168091
+updated: 1642696523762
 created: 1641833454971
 ---
 
@@ -162,8 +162,8 @@ $\vec{u} \times \vec{v} = |\vec{u}||\vec{u}|\sin{\theta}\vec{n}$
 
 ```mermaid
 flowchart LR
-    i --> j --> k
-    k --> i
+  i --> j --> k
+  k --> i
 ```
 - $\^{i}\times\^{j}=\^{k}$
 - $\^{j}\times\^{k}=\^{i}$
@@ -179,4 +179,16 @@ flowchart LR
 - $\^{j}\times\^{j}=0$
 - $\^{k}\times\^{k}=0$
 
-**Example**
+### Right Hand Rule
+
+#### Definition
+Finds the direction of the cross product
+
+#### Method
+For Vector $\vec{A} \times \vec{B}$
+
+Using your right-hand:
+
+1. point your index finger along vector a
+2. point your middle finger along vector b
+3. the cross product will be in the direction of your thumb.
