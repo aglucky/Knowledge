@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642696523762
+updated: 1642697281624
 created: 1641833454971
 ---
 
@@ -184,11 +184,11 @@ flowchart LR
 #### Definition
 Finds the direction of the cross product
 
-#### Method
-For Vector $\vec{A} \times \vec{B}$
+#### Example
+**Find the direction of $\vec{a} \times \vec{b}$**
 
 Using your right-hand:
 
-1. point your index finger along vector a
-2. point your middle finger along vector b
-3. the cross product will be in the direction of your thumb.
+1. point your index finger along $\vec{a}$
+2. point your middle finger along vector $\vec{a}$
+3. $\vec{a} \times \vec{b}$ will be in the direction of your thumb.
