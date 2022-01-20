@@ -2,7 +2,7 @@
 id: WUS8aRIe1ACHMlMuIYHgK
 title: Products
 desc: ''
-updated: 1642697903760
+updated: 1642698005061
 created: 1642697903760
 ---
 ### Dot Product
@@ -84,7 +84,7 @@ flowchart LR
 Finds the direction of the cross product
 
 #### Example
-**Find the direction of $\vec{a} \times \vec{b}$**
+*Find the direction of $\vec{a} \times \vec{b}$*
 
 Using your right-hand:
 

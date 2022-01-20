@@ -2,7 +2,7 @@
 id: ik5Bi5OCTsmfKfq5JQtEB
 title: Home
 desc: ''
-updated: 1641857025454
+updated: 1642698654879
 created: 1637610830605
 ---
 # Adam's Knowledge Base
