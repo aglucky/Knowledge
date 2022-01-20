@@ -2,7 +2,7 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642612781010
+updated: 1642696168091
 created: 1641833454971
 ---
 
@@ -168,11 +168,15 @@ flowchart LR
 - $\^{i}\times\^{j}=\^{k}$
 - $\^{j}\times\^{k}=\^{i}$
 - $\^{k}\times\^{i}=\^{j}$
--------
+
+
 - $\^{j}\times\^{i}=-\^{k}$
 - $\^{k}\times\^{j}=-\^{i}$
 - $\^{i}\times\^{k}=-\^{j}$
--------
+
+
 - $\^{i}\times\^{i}=0$
 - $\^{j}\times\^{j}=0$
 - $\^{k}\times\^{k}=0$
+
+**Example**

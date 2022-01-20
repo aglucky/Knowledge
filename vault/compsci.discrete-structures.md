@@ -2,13 +2,14 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1642607830354
+updated: 1642696298818
 created: 1640155043932
 tags: school
 ---
 
 ## Outline
 - [Propositional](/assets/spr22/FndtionOne/PropositionalLogic.pdf) and [Predicate](/assets/spr22/FndtionOne/PredicateLogic.pdf) Logic
+  - [MIT Reference](/assets/spr22/FndtionOne/Logic_MIT.pdf)
 - Basic Proof Techniques
 - Graphs
 - Trees
