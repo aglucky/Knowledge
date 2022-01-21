@@ -2,14 +2,13 @@
 id: vi6yhdzlK5dncfpklrolk
 title: Math
 desc: ''
-updated: 1640425285379
+updated: 1642783678611
 created: 1640152227657
 ---
 
 ## Description
 Math stuff
 
-## look into this
-$$\frac{44}{3}$$
-$\frac{44}{3}$
+## Notes
+Probably not going to make notes myself anymore after making the vectors page
 
