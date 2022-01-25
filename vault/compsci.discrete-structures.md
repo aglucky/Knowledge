@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1643136640153
+updated: 1643136694317
 created: 1640155043932
 tags: school
 ---
@@ -19,8 +19,6 @@ tags: school
 
 
 ## Resources
-
-
 - **OSU Official**
   - [Syllabus](/assets/spr22/FndtionOne/CSE2321.pdf)
   - [CLRS Book](/assets/spr22/FndtionOne/CLRS.pdf)
