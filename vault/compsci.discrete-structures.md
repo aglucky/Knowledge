@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1642696298818
+updated: 1643133412375
 created: 1640155043932
 tags: school
 ---
@@ -11,7 +11,7 @@ tags: school
 - [Propositional](/assets/spr22/FndtionOne/PropositionalLogic.pdf) and [Predicate](/assets/spr22/FndtionOne/PredicateLogic.pdf) Logic
   - [MIT Reference](/assets/spr22/FndtionOne/Logic_MIT.pdf)
 - Basic Proof Techniques
-- Graphs
+- [Graphs](/assets/spr22/FndtionOne/Graphs.pdf) and [Sets](/assets/spr22/FndtionOne/Sets.pdf)
 - Trees
 - Analysis of Algorithms
 - Asymptotic Analysis
