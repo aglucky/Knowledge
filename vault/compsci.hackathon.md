@@ -2,32 +2,9 @@
 id: 9PTbvU9AW1S2HMuY3MzUO
 title: Hackathon
 desc: ''
-updated: 1643135236628
+updated: 1643135925636
 created: 1643134963957
 ---
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 1.227 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Jan 25 2022 10:20:44 GMT-0800 (PST)
-* Source doc: Hackathon Resources
------>
-
-
-
 
   ## Find Hackathons (Ranked)
   1. [DevPost](https://devpost.com/)
