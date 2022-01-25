@@ -2,7 +2,7 @@
 id: qOJzIEotdsQJofSSb7Vaw
 title: About Me
 desc: ''
-updated: 1642093884546
+updated: 1643044984150
 created: 1640331332806
 social:
   linkedin: https://www.linkedin.com/in/adam-gluck-111a2a174/
@@ -13,7 +13,7 @@ contact:
 
 ![Picture of me](/assets/images/adam.jpg){max-width: 150px, display: block, margin: 0}
 ## Summary
-test
+
 
 
 ## Stuff I'm Doing
