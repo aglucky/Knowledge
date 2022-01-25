@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1643134436544
+updated: 1643134904767
 created: 1640151500021
 tags: school
 ---
