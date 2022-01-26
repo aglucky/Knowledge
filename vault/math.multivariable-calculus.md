@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1643134904767
+updated: 1643216434271
 created: 1640151500021
 tags: school
 ---
@@ -42,3 +42,7 @@ tags: school
   - [CMU](https://www.math.cmu.edu/~gautam/sj/teaching/2019-20/268-multid-calc/)
   - [Caltech](http://tamuz.caltech.edu/teaching/18.022/)
   - [UIUC](https://nmd.pages.math.illinois.edu/classes/2019/241/index.html)
+
+### Other Resources
+
+  - [Review Cards From Discord](/assets/spr22/MultiCalc/2153_rev_cards.pdf)
