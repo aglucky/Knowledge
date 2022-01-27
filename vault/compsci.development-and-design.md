@@ -2,13 +2,13 @@
 id: dNglx9E2Q0wCABrKbfknx
 title: Development and Design
 desc: CSE 2231
-updated: 1643211291674
+updated: 1643307293026
 created: 1640155841508
 tags: school
 ---
 
 ## Topics
-- ![[compsci.data-representation#Types]]
+- Data Representation
 - Sorting Algorithms
 - Using Trees For Language Processing
 - Component Interface Design
