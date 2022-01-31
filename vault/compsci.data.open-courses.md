@@ -1,9 +1,10 @@
 ---
 id: a6kFvecTMUxXtmCBgiScY
-title: OCW
+title: Open Courses
 desc: ''
-updated: 1643576525345
+updated: 1643649878525
 created: 1643573418424
+tags: ocw
 ---
 
 - U Penn
@@ -22,6 +23,8 @@ created: 1643573418424
   - [Principles of Data Management (CSE 544)](https://courses.cs.washington.edu/courses/cse544/20wi/)
 - Caltech
   - [Learning From Data (CS156)](https://work.caltech.edu/telecourse.html)
+- MIT
+  - [Introduction to Deep Learning](http://introtodeeplearning.com/)
 - CMU
   - [Practical Data Science (15-388)](http://www.datasciencecourse.org/lectures/)
   - [ML with Large Datasets (10-405/10-605)](https://10605.github.io/)
@@ -36,5 +39,9 @@ created: 1643573418424
   - [Machine Learning in a Nutshell (15-288)](https://web2.qatar.cmu.edu/~gdicaro/15288/)
   - [Human AU Interaction (05-318S)](https://haiicmu.github.io/)
   - [Mathematical / Computational Foundations for Machine Learning (10-606/607)](https://www.cs.cmu.edu/~mgormley/courses/606-607-f18/index.html)
+  - [Creative AI](http://kangeunsu.com/creativeai19f/#material)
 - UIUC
   - [Artifical Intelligence (CS 440/ECE 448)](https://courses.physics.illinois.edu/cs440/fa2020/)
+- Berkely
+  - [All Data Science Modules](https://ds-modules.github.io/)
+  - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
