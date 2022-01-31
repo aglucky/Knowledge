@@ -2,7 +2,7 @@
 id: a6kFvecTMUxXtmCBgiScY
 title: Open Courses
 desc: ''
-updated: 1643649878525
+updated: 1643650832457
 created: 1643573418424
 tags: ocw
 ---
@@ -45,3 +45,5 @@ tags: ocw
 - Berkely
   - [All Data Science Modules](https://ds-modules.github.io/)
   - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- Deepmind
+  - [Introduction to Reinforcement Learning (UCL)](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
