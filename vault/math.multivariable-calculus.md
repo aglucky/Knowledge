@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1643216434271
+updated: 1643823714050
 created: 1640151500021
 tags: school
 ---
@@ -26,11 +26,16 @@ tags: school
     2. [Vectors in three dimensions](/assets/spr22/MultiCalc/13.2_Vectors_in_three_dimensions.pdf)
     3. [Dot Product](/assets/spr22/MultiCalc/13.3_Dot_Product.pdf)
     4. [Cross Product](/assets/spr22/MultiCalc/13.4_Cross_products.pdf)
+    5. 
+    6. [Planes and Surfaces](/assets/spr22/MultiCalc/13.6_20_Planes_and_surfaces.pdf)
   - **Chapter 14**
     1. [Lines and Curves in 3D Space](/assets/spr22/MultiCalc/14.1_Lines_and_curves_in_space.pdf)
     2. [Calculus of Vectored Values Functions](/assets/spr22/MultiCalc/14.2_Calculus_of_vector-valued_functions.pdf)
     3. [Motion in Space](/assets/spr22/MultiCalc/14.3_Motion_in_space.pdf)
     4. [Lengths of Curves](/assets/spr22/MultiCalc/14.4_Lengths_of_curves.pdf)
+    5. [Curvature and Normal Vectors](/assets/spr22/MultiCalc/14.5_Curvature_and_normal_vectors.pdf)
+ 1. - **Chapter 15**
+    1. [Graphs and Level Curves](/assets/spr22/MultiCalc/15.1_Graphs_and_level_curves.pdf)
   - **Examples**
     - *13.1*
       - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
