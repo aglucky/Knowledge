@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1643823812767
+updated: 1644514972509
 created: 1640151500021
 tags: school
 ---
@@ -36,6 +36,7 @@ tags: school
     5. [Curvature and Normal Vectors](/assets/spr22/MultiCalc/14.5_Curvature_and_normal_vectors.pdf)
  1. - **Chapter 15**
     1. [Graphs and Level Curves](/assets/spr22/MultiCalc/15.1_Graphs_and_level_curves.pdf)
+    2. [Limits and Continuity](/assets/spr22/MultiCalc/calc3_15-2.pdf)
   - **Examples**
     - *13.1*
       - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
