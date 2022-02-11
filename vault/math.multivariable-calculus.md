@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1644514972509
+updated: 1644598243726
 created: 1640151500021
 tags: school
 ---
@@ -33,10 +33,13 @@ tags: school
     2. [Calculus of Vectored Values Functions](/assets/spr22/MultiCalc/14.2_Calculus_of_vector-valued_functions.pdf)
     3. [Motion in Space](/assets/spr22/MultiCalc/14.3_Motion_in_space.pdf)
     4. [Lengths of Curves](/assets/spr22/MultiCalc/14.4_Lengths_of_curves.pdf)
-    5. [Curvature and Normal Vectors](/assets/spr22/MultiCalc/14.5_Curvature_and_normal_vectors.pdf)
- 1. - **Chapter 15**
-    1. [Graphs and Level Curves](/assets/spr22/MultiCalc/15.1_Graphs_and_level_curves.pdf)
-    2. [Limits and Continuity](/assets/spr22/MultiCalc/calc3_15-2.pdf)
+    5. [Curvature and Normal Vectors](/assets/spr22/MultiCalc/14.5_Curvature_and_normal_vectors.pdf) 
+ - **Chapter 15**
+    1. [Graphs and Level Curves Part 1](/assets/spr22/MultiCalc/15.1_Graphs_and_level_curves.pdf) & [Part 2](/assets/spr22/MultiCalc/15_1_2.pdf)
+    2. [Limits and Continuity](/assets/spr22/MultiCalc/15.2_Limits_and_Continuity.pdf)
+    3. [Partial Derivatives](/assets/spr22/MultiCalc/15.3_Partial_Derivatives.pdf)
+    4. [The Chain Rule](/assets/spr22/MultiCalc/15.4_The_Chain_Rule.pdf)
+    5. [Directional Derivatives and The Gradient](/assets/spr22/MultiCalc/15.5_Directional_derivatives_and_the_gradient.pdf)
   - **Examples**
     - *13.1*
       - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
