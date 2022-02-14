@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1644515073704
+updated: 1644863575315
 created: 1640155043932
 tags: school
 ---
@@ -28,7 +28,8 @@ tags: school
   
 - **OCW**
   - [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-  - [CMU](https://www.math.cmu.edu/~ploh/2021-228.shtml)
+  - [CMU 1](https://www.math.cmu.edu/~ploh/2021-228.shtml) & [CMU 2](https://www.math.cmu.edu/~jmackey/151_128/welcome.html)
   - [Caltech](http://www.math.caltech.edu/~2014-15/1term/ma006a/)
-  - [Stanford](https://web.stanford.edu/class/cs103x/)
+  - [Stanford 1](https://web.stanford.edu/class/cs103x/) & [Stanford 2](https://web.stanford.edu/class/cs103/)
+  - [Brown](https://cs22.cafe/)
   - [UIUC](https://courses.engr.illinois.edu/cs173/fa2021/ALL-lectures/)
