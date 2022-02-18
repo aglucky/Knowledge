@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1644598243726
+updated: 1645201816817
 created: 1640151500021
 tags: school
 ---
@@ -40,6 +40,8 @@ tags: school
     3. [Partial Derivatives](/assets/spr22/MultiCalc/15.3_Partial_Derivatives.pdf)
     4. [The Chain Rule](/assets/spr22/MultiCalc/15.4_The_Chain_Rule.pdf)
     5. [Directional Derivatives and The Gradient](/assets/spr22/MultiCalc/15.5_Directional_derivatives_and_the_gradient.pdf)
+    6. [Tangent Planes](/assets/spr22/MultiCalc/15.6_Tangent_planes.pdf)
+    7. [Max and Min Problems](/assets/spr22/MultiCalc/15.7_Max_and_Min_problems.pdf) & [Absolute Min & Max](/assets/spr22/MultiCalc/15.7_cont._Absolute_Max_and_Min_values.pdf)
   - **Examples**
     - *13.1*
       - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
