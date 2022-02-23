@@ -2,7 +2,7 @@
 id: qOJzIEotdsQJofSSb7Vaw
 title: About Me
 desc: ''
-updated: 1644260178358
+updated: 1645654360994
 created: 1640331332806
 social:
   linkedin: https://www.linkedin.com/in/adam-gluck-111a2a174/
@@ -13,17 +13,16 @@ contact:
 
 ![Picture of me](/assets/images/adam.jpg){max-width: 150px, display: block, margin: 0}
 ## Summary
-
-
+Just a college student doing some cool stuff
 
 ## Stuff I'm Doing
 Top Secret
 
 ## Interests
-
+Anything high tech
 ## Achievements
-
-## [Resume](/assets/resume.pdf)
+Really good at connect 4 and decent at Hackathons
+### [Check out the resume](/assets/resume.pdf)
 
 
 

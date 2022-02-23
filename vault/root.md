@@ -2,35 +2,17 @@
 id: ik5Bi5OCTsmfKfq5JQtEB
 title: Home
 desc: ''
-updated: 1642698654879
+updated: 1645654187201
 created: 1637610830605
 ---
-# Adam's Knowledge Base
+## Adam's Knowledge Base
 
-Currently trying out Dendron so trying out notes again. We'll see how long this will 
-last.
-<br>
-<br>
-[Dendron Docs](https://wiki.dendron.so/)
-<br>
+This is a compilation of notes for my classes and other random things I may or may not use. Feel free to explore.
 
-## Random Graph Using Mermaid
+## State of Site
+Unpolished still, but will eventually get it up to snuff.
 
-```mermaid
-graph LR;
-    classDef id fill:#f00;
-    
-    Adam--->Coding-->Software-->Money;
-    Money-->Data-->Investing;
-    Money-->Adam
-    Investing-->Money-->Buying_Dumb_Shit;
-    Data-->Software-->Coding;
-    Software-->Robots-->Better_Robots;
-    Better_Robots-->Adam;
-    Data-->Robots;
-    Investing-->Robots;
-    Data-->Adam-->Buying_Dumb_Shit;
-    Buying_Dumb_Shit-->Profit?:::id;
-```
-## Current State of Site
-Incomplete
+## Want to Buy Me a Coffee?
+
+[Send some 💸 here](https://account.venmo.com/u/Adam-Gluck-6)
+

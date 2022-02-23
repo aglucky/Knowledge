@@ -2,11 +2,11 @@
 id: a6kFvecTMUxXtmCBgiScY
 title: Open Courses
 desc: ''
-updated: 1643650832457
+updated: 1645654424715
 created: 1643573418424
 tags: ocw
 ---
-
+## Should probably categorize this into different notes based on topic soon
 - U Penn
   - [Big Data Analytics (CIS 545)](https://sites.google.com/seas.upenn.edu/cis545)
   - [Machine Learning (CIS 520)](https://alliance.seas.upenn.edu/~cis520/dynamic/2020/wiki/index.php?n=Main.HomePage)
