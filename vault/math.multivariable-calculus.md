@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1645201816817
+updated: 1645806419330
 created: 1640151500021
 tags: school
 ---
@@ -42,6 +42,10 @@ tags: school
     5. [Directional Derivatives and The Gradient](/assets/spr22/MultiCalc/15.5_Directional_derivatives_and_the_gradient.pdf)
     6. [Tangent Planes](/assets/spr22/MultiCalc/15.6_Tangent_planes.pdf)
     7. [Max and Min Problems](/assets/spr22/MultiCalc/15.7_Max_and_Min_problems.pdf) & [Absolute Min & Max](/assets/spr22/MultiCalc/15.7_cont._Absolute_Max_and_Min_values.pdf)
+- **Chapter 16**
+    1. [Double Integrals over Rectangular Regions](/assets/spr22/MultiCalc/16.1_Double_integrals_over_rectangular_regions.pdf)
+    2. [Double Integrals over General Regions](/assets/spr22/MultiCalc/16.2_Double_integrals_over_general_regions.pdf)
+    3. [[Double Integrals in Polar Coordinates](/assets/spr22/MultiCalc/16.3_Double_integrals_in_polar_coordinates.pdf)
   - **Examples**
     - *13.1*
       - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
