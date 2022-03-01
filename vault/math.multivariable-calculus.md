@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1645806446085
+updated: 1646157175740
 created: 1640151500021
 tags: school
 ---
@@ -46,11 +46,11 @@ tags: school
     1. [Double Integrals over Rectangular Regions](/assets/spr22/MultiCalc/16.1_Double_integrals_over_rectangular_regions.pdf)
     2. [Double Integrals over General Regions](/assets/spr22/MultiCalc/16.2_Double_integrals_over_general_regions.pdf)
     3. [Double Integrals in Polar Coordinates](/assets/spr22/MultiCalc/16.3_Double_integrals_in_polar_coordinates.pdf)
-  - **Examples**
-    - *13.1*
-      - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
-      - [Part 2](/assets/spr22/MultiCalc/13.1_example_pg_2.jpg)
-      - [Part 3](/assets/spr22/MultiCalc/13.1_example_pg_3.jpg)
+- **Examples**
+  - *13.1*
+    - [Part 1](/assets/spr22/MultiCalc/13.1_example_pg_1.jpg)
+    - [Part 2](/assets/spr22/MultiCalc/13.1_example_pg_2.jpg)
+    - [Part 3](/assets/spr22/MultiCalc/13.1_example_pg_3.jpg)
   
 ### Open Course Ware
   - [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)

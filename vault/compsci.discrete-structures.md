@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1645122602556
+updated: 1646157083664
 created: 1640155043932
 tags: school
 ---
@@ -14,6 +14,7 @@ tags: school
 - [Proof Methods](/assets/spr22/FndtionOne/Proof_Methods.pdf)
 - [Asymptomatic Analysis](/assets/spr22/FndtionOne/Asymptotic_Analysis.pdf)
 - [Code Examples](/assets/spr22/FndtionOne/Code_Examples.pdf)
+- [Recurrence Relations](/assets/spr22/FndtionOne/Recurrence_Relations.pdf)
 
 
 
