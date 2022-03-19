@@ -2,12 +2,12 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1647662665101
+updated: 1647663109880
 created: 1640155043932
 tags: school
 ---
 
-## Outline
+## Content
 - [Propositional](/assets/spr22/FndtionOne/PropositionalLogic.pdf) and [Predicate](/assets/spr22/FndtionOne/PredicateLogic.pdf) Logic
 - [MIT Reference](/assets/spr22/FndtionOne/Logic_MIT.pdf)
 - [Sets](/assets/spr22/FndtionOne/Sets.pdf) and [Graphs](/assets/spr22/FndtionOne/Graphs.pdf)
@@ -16,7 +16,6 @@ tags: school
 - [Code Examples](/assets/spr22/FndtionOne/Code_Examples.pdf)
 - [Recurrence Relations](/assets/spr22/FndtionOne/Recurrence_Relations.pdf)
 - [Sorting Algorithims](/assets/spr22/FndtionOne/Sorting_Algorithms.pdf)
-
 
 
 ## Resources
@@ -32,3 +31,6 @@ tags: school
   - [Stanford 1](https://web.stanford.edu/class/cs103x/) & [Stanford 2](https://web.stanford.edu/class/cs103/)
   - [Brown](https://cs22.cafe/)
   - [UIUC](https://courses.engr.illinois.edu/cs173/fa2021/ALL-lectures/)
+
+## Cheat Sheets
+- [Midterm 1](/assets/spr22/FndtionOne/CheatSheetM1.pdf)
