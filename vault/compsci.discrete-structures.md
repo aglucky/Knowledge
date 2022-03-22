@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1647663109880
+updated: 1647933195071
 created: 1640155043932
 tags: school
 ---
@@ -34,3 +34,4 @@ tags: school
 
 ## Cheat Sheets
 - [Midterm 1](/assets/spr22/FndtionOne/CheatSheetM1.pdf)
+- [Midterm 2](/assets/spr22/FndtionOne/CheatSheetM2.pdf)
