@@ -9,6 +9,17 @@ created: 1648143767951
 ## Physics
 
 - [All MIT OCW](https://ocw.mit.edu/courses/physics/)
+- CMU
+  - [Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)
+  - [Advanced Quantum Physics I Fall Semester](https://quantum.phys.cmu.edu/quad/index.html)
+  - [Quantum Mechanics II Spring Semester](https://quantum.phys.cmu.edu/qm2/)
+  - [QUANTUM INTEGER PROGRAMMING](https://bernalde.github.io/QuIP/)
+  - [Spin Physics and Spectroscopy](https://web.stanford.edu/class/rad226a/index.html)
+- Stanford
+  - [Theoretical Minimum](https://theoreticalminimum.com/courses)
+- Cornell
+  - [Quantum Information Processing](https://courses.cit.cornell.edu/physics4481-7681_2014sp/)
+  - 
 
 ## Math
 - Stanford
@@ -25,6 +36,14 @@ created: 1648143767951
     - [Stochastic Control](https://web.stanford.edu/class/ee365/)
     - [Introduction to Signals & Systems](https://web.stanford.edu/class/ee102k/)
     - [Embedded Networked Systems](https://web.stanford.edu/class/ee107/index.html)
+    - [Information Theory](https://web.stanford.edu/class/ee276/)
+  - UIUC
+    - [Neural Circuits and Systems](https://auditorymodels.org/index.php?n=Courses.ECE498-ECENeuroScience-S21)
+    - [Human Speech Recognition + Supporting Courses](https://auditorymodels.org/index.php?n=Courses.Homepage)
+    - [Fields and Wave I](https://courses.grainger.illinois.edu/ece329/)
+  - Cornell
+    - [ECE Open Courseware](https://ocw.ece.cornell.edu/)
+    - 
 
 ## Interesting Shit
 - Stanford
@@ -33,3 +52,7 @@ created: 1648143767951
   - [Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/)
   - [Mining Massive Data Sets](https://web.stanford.edu/class/cs246/index.html)
   - [Medical Image Reconstruction](https://web.stanford.edu/class/ee369c/index.html)
+- UIUC
+  - [Principles of Blockchains](https://courses.grainger.illinois.edu/ECE598PV/sp2022/)
+- Brown
+  - [CS Intro](https://cs17-fall2021.github.io/)
