@@ -57,5 +57,5 @@ created: 1648143767951
 - Brown
   - [CS Intro](https://cs17-fall2021.github.io/)
 - CMU
--   [Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/~15251/)
--   [More Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/~venkatg/teaching/15252-sp20/index.html)
+  -   [Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/~15251/)
+  -   [More Great Ideas in Theoretical Computer Science](https://www.cs.cmu.edu/~venkatg/teaching/15252-sp20/index.html)
