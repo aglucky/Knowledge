@@ -17,7 +17,7 @@ tags: school
 - [Recurrence Relations](/assets/spr22/FndtionOne/Recurrence_Relations.pdf)
 - [Sorting Algorithims](/assets/spr22/FndtionOne/Sorting_Algorithms.pdf)
 - [Graph Data Structures](/assets/spr22/FndtionOne/Graph_Data_Structures.pdf)
-
+- [Matrix Multiplications](/assets/spr22/FndtionOne/Matrix_Multiplication.pdf)
 
 ## Resources
 - **OSU Official**
