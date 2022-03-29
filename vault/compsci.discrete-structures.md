@@ -8,9 +8,12 @@ tags: school
 ---
 
 ## Content
-- [Propositional](/assets/spr22/FndtionOne/PropositionalLogic.pdf) and [Predicate](/assets/spr22/FndtionOne/PredicateLogic.pdf) Logic
+
+- [Propositional Logic](/assets/spr22/FndtionOne/PropositionalLogic.pdf)
+- [Predicate Logic](/assets/spr22/FndtionOne/PredicateLogic.pdf)
 - [MIT Reference](/assets/spr22/FndtionOne/Logic_MIT.pdf)
-- [Sets](/assets/spr22/FndtionOne/Sets.pdf) and [Graphs](/assets/spr22/FndtionOne/Graphs.pdf)
+- [Sets](/assets/spr22/FndtionOne/Sets.pdf)
+- [Graphs](/assets/spr22/FndtionOne/Graphs.pdf)
 - [Proof Methods](/assets/spr22/FndtionOne/Proof_Methods.pdf)
 - [Asymptomatic Analysis](/assets/spr22/FndtionOne/Asymptotic_Analysis.pdf)
 - [Code Examples](/assets/spr22/FndtionOne/Code_Examples.pdf)
@@ -20,6 +23,7 @@ tags: school
 - [Matrix Multiplications](/assets/spr22/FndtionOne/Matrix_Multiplication.pdf)
 
 ## Resources
+
 - **OSU Official**
   - [Syllabus](/assets/spr22/FndtionOne/CSE2321.pdf)
   - [CLRS Book](/assets/spr22/FndtionOne/CLRS.pdf)
@@ -34,5 +38,6 @@ tags: school
   - [UIUC](https://courses.engr.illinois.edu/cs173/fa2021/ALL-lectures/)
 
 ## Cheat Sheets
+
 - [Midterm 1](/assets/spr22/FndtionOne/CheatSheetM1.pdf)
 - [Midterm 2](/assets/spr22/FndtionOne/CheatSheetM2.pdf)
