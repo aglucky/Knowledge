@@ -63,7 +63,7 @@ workspace:
         createTaskSelectionType: selection2link
     enableUserTags: true
     enableHashTags: true
-    dendronVersion: 0.83.0
+    dendronVersion: 0.88.0
     enableEditorDecorations: true
 preview:
     enableFMTitle: true
