@@ -41,6 +41,7 @@ tags: school
 
 
 ## Resources 
+
 <br>
 
 ### Examples
@@ -49,6 +50,7 @@ tags: school
     - [Part 2](/assets/spr22/MultiCalc/13.1_example_pg_2.jpg)
     - [Part 3](/assets/spr22/MultiCalc/13.1_example_pg_3.jpg)
 ### OSU Class Info
+
   - [Syllabus](/assets/spr22/MultiCalc/calc3syl.pdf)
   - [Calendar](/assets/spr22/MultiCalc/calc3cal.pdf)
 
