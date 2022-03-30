@@ -28,6 +28,7 @@ tags: school
     5. [Directional Derivatives and The Gradient](/assets/spr22/MultiCalc/15.5_Directional_derivatives_and_the_gradient.pdf)
     6. [Tangent Planes](/assets/spr22/MultiCalc/15.6_Tangent_planes.pdf)
     7. [Max and Min Problems](/assets/spr22/MultiCalc/15.7_Max_and_Min_problems.pdf) & [Absolute Min & Max](/assets/spr22/MultiCalc/15.7_cont._Absolute_Max_and_Min_values.pdf)
+    8. 
 - **Chapter 16**
     1. [Double Integrals over Rectangular Regions](/assets/spr22/MultiCalc/16.1_Double_integrals_over_rectangular_regions.pdf)
     2. [Double Integrals over General Regions](/assets/spr22/MultiCalc/16.2_Double_integrals_over_general_regions.pdf)
@@ -35,6 +36,7 @@ tags: school
     4. [Triple Integrals](/assets/spr22/MultiCalc/16.4_Triple_integrals.pdf)
     5. [Triple Integrals in Spherical Coordinates](/assets/spr22/MultiCalc/16.5_Triple_integral_inspherical_coordinates.pdf)
  1. **Chapter 17**
+
     1. [Vector Fields](/assets/spr22/MultiCalc/17.1_Vector_fields.pdf)
     2. [Line Integrals](/assets/spr22/MultiCalc/17.2_Line_integrals.pdf)
     3. [Conservative Vector Fields](/assets/spr22/MultiCalc/17.3_Conservative_vector_fields.pdf)
