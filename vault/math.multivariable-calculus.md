@@ -36,6 +36,8 @@ tags: school
     5. [Triple Integrals in Spherical Coordinates](/assets/spr22/MultiCalc/16.5_Triple_integral_inspherical_coordinates.pdf)
  1. **Chapter 17**
     1. [Vector Fields](/assets/spr22/MultiCalc/17.1_Vector_fields.pdf)
+    2. [Line Integrals](/assets/spr22/MultiCalc/17.2_Line_integrals.pdf)
+    3. [Conservative Vector Fields](/assets/spr22/MultiCalc/17.3_Conservative_vector_fields.pdf)
 
 
 ## Resources 
