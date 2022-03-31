@@ -16,6 +16,7 @@ tags: school
 
 
 ## Resources
+
 - **OSU Official**
   - [Syllabus](/assets/spr22/CSE2231.pdf)
   - [Calendar](http://web.cse.ohio-state.edu/software/2231/web-sw2/schedule.html)
