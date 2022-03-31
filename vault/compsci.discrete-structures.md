@@ -18,9 +18,10 @@ tags: school
 - [Asymptomatic Analysis](/assets/spr22/FndtionOne/Asymptotic_Analysis.pdf)
 - [Code Examples](/assets/spr22/FndtionOne/Code_Examples.pdf)
 - [Recurrence Relations](/assets/spr22/FndtionOne/Recurrence_Relations.pdf)
-- [Sorting Algorithims](/assets/spr22/FndtionOne/Sorting_Algorithms.pdf)
+- [Sorting Algorithms](/assets/spr22/FndtionOne/Sorting_Algorithms.pdf)
 - [Graph Data Structures](/assets/spr22/FndtionOne/Graph_Data_Structures.pdf)
 - [Matrix Multiplications](/assets/spr22/FndtionOne/Matrix_Multiplication.pdf)
+- [Graph Traversal Algorithms](/assets/spr22/FndtionOne/Graph_Traversal_Algorithms.pdf)
 
 ## Resources
 
