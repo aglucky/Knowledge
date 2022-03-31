@@ -22,7 +22,7 @@ jobs:
         path: |
           node_modules
           .next/node_modules
-        key: node-modules-${{ hashFiles('package-lock.json') }}
+        key: node-modules-${{ hashFiles('package-lock.json') }}-1
 
     - name: Install npm dependencies
       run: npm install @dendronhq/dendron-cli@latest
