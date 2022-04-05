@@ -2,7 +2,7 @@
 id: qgG6FxYHRQOWUTbqlONqT
 title: Discrete Structures
 desc: 'CSE 2321'
-updated: 1647933195071
+updated: 1649181107017
 created: 1640155043932
 tags: school
 ---
@@ -22,6 +22,8 @@ tags: school
 - [Graph Data Structures](/assets/spr22/FndtionOne/Graph_Data_Structures.pdf)
 - [Matrix Multiplications](/assets/spr22/FndtionOne/Matrix_Multiplication.pdf)
 - [Graph Traversal Algorithms](/assets/spr22/FndtionOne/Graph_Traversal_Algorithms.pdf)
+- [Topological Sort](/assets/spr22/FndtionOne/Topological_Sort.pdf)
+- [Strongly Connected Components](/assets/spr22/FndtionOne/Strongly_Connected_Components.pdf)
 
 ## Resources
 
