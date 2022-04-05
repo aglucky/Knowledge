@@ -35,10 +35,13 @@ tags: school
     3. [Double Integrals in Polar Coordinates](/assets/spr22/MultiCalc/16.3_Double_integrals_in_polar_coordinates.pdf)
     4. [Triple Integrals](/assets/spr22/MultiCalc/16.4_Triple_integrals.pdf)
     5. [Triple Integrals in Spherical Coordinates](/assets/spr22/MultiCalc/16.5_Triple_integral_inspherical_coordinates.pdf)
- 1. **Chapter 17**
+ - **Chapter 17**
 
     1. [Vector Fields](/assets/spr22/MultiCalc/17.1_Vector_fields.pdf)
     2. [Line Integrals](/assets/spr22/MultiCalc/17.2_Line_integrals.pdf)
+       1. [Line Integrals of Vector Fields](/assets/spr22/MultiCalc/17.2.1_Line_integrals_of_vector_fields.pdf)
+       2. [Circulation](/assets/spr22/MultiCalc/17.2.2_Circulation.pdf)
+       3. [Flux](/assets/spr22/MultiCalc/17.2.3_Flux.pdf)
     3. [Conservative Vector Fields](/assets/spr22/MultiCalc/17.3_Conservative_vector_fields.pdf)
 
 
