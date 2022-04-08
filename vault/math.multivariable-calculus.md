@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1648082949283
+updated: 1649431814565
 created: 1640151500021
 tags: school
 ---
@@ -43,6 +43,8 @@ tags: school
        2. [Circulation](/assets/spr22/MultiCalc/17.2.2_Circulation.pdf)
        3. [Flux](/assets/spr22/MultiCalc/17.2.3_Flux.pdf)
     3. [Conservative Vector Fields](/assets/spr22/MultiCalc/17.3_Conservative_vector_fields.pdf)
+    4. [Greene's Theorem](assets/spr22/MultiCalc/17.4_Green's_theorem.pdf)
+    5. [Divergence and Curl](/assets/spr22/MultiCalc/17.5_Divergence_and_Curl.pdf)
 
 
 ## Resources 
