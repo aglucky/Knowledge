@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1649782316412
+updated: 1649865480188
 created: 1640151500021
 tags: school
 ---
@@ -28,13 +28,14 @@ tags: school
     5. [Directional Derivatives and The Gradient](/assets/spr22/MultiCalc/15.5_Directional_derivatives_and_the_gradient.pdf)
     6. [Tangent Planes](/assets/spr22/MultiCalc/15.6_Tangent_planes.pdf)
     7. [Max and Min Problems](/assets/spr22/MultiCalc/15.7_Max_and_Min_problems.pdf) & [Absolute Min & Max](/assets/spr22/MultiCalc/15.7_cont._Absolute_Max_and_Min_values.pdf)
-    8. 
 - **Chapter 16**
     1. [Double Integrals over Rectangular Regions](/assets/spr22/MultiCalc/16.1_Double_integrals_over_rectangular_regions.pdf)
     2. [Double Integrals over General Regions](/assets/spr22/MultiCalc/16.2_Double_integrals_over_general_regions.pdf)
     3. [Double Integrals in Polar Coordinates](/assets/spr22/MultiCalc/16.3_Double_integrals_in_polar_coordinates.pdf)
     4. [Triple Integrals](/assets/spr22/MultiCalc/16.4_Triple_integrals.pdf)
     5. [Triple Integrals in Spherical Coordinates](/assets/spr22/MultiCalc/16.5_Triple_integral_inspherical_coordinates.pdf)
+    6.  
+    7. [Change of Variables](/assets/spr22/MultiCalc/16.7_change_of_variables.pdf)
  - **Chapter 17**
 
     1. [Vector Fields](/assets/spr22/MultiCalc/17.1_Vector_fields.pdf)
@@ -46,6 +47,7 @@ tags: school
     4. [Greene's Theorem](assets/spr22/MultiCalc/17.4_Green's_theorem.pdf)
     5. [Divergence and Curl](/assets/spr22/MultiCalc/17.5_Divergence_and_Curl.pdf)
     6. [Surface Integrals](/assets/spr22/MultiCalc/17.6_Surface_integrals.pdf)
+    7. [Stokes' Thereom](/assets/spr22/MultiCalc/17.7_Stokes'_Theorem.pdf)
 
 
 ## Resources 
@@ -74,3 +76,4 @@ tags: school
 ### Other Resources
 
   - [Review Cards From Discord](/assets/spr22/MultiCalc/2153_rev_cards.pdf)
+  - [Exam 3 Equation Sheet](/assets/spr22/MultiCalc/Equation_Sheet_Exam_3_Math_2153.pdf)
