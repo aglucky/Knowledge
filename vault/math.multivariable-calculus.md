@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1649865480188
+updated: 1649865524428
 created: 1640151500021
 tags: school
 ---
@@ -47,7 +47,7 @@ tags: school
     4. [Greene's Theorem](assets/spr22/MultiCalc/17.4_Green's_theorem.pdf)
     5. [Divergence and Curl](/assets/spr22/MultiCalc/17.5_Divergence_and_Curl.pdf)
     6. [Surface Integrals](/assets/spr22/MultiCalc/17.6_Surface_integrals.pdf)
-    7. [Stokes' Thereom](/assets/spr22/MultiCalc/17.7_Stokes'_Theorem.pdf)
+    7. [Stokes' Theorem](/assets/spr22/MultiCalc/17.7_Stokes'_Theorem.pdf)
 
 
 ## Resources 
