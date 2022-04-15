@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1649865524428
+updated: 1649987748940
 created: 1640151500021
 tags: school
 ---
@@ -44,7 +44,7 @@ tags: school
        2. [Circulation](/assets/spr22/MultiCalc/17.2.2_Circulation.pdf)
        3. [Flux](/assets/spr22/MultiCalc/17.2.3_Flux.pdf)
     3. [Conservative Vector Fields](/assets/spr22/MultiCalc/17.3_Conservative_vector_fields.pdf)
-    4. [Greene's Theorem](assets/spr22/MultiCalc/17.4_Green's_theorem.pdf)
+    4. [Greene's Theorem](/assets/spr22/MultiCalc/17.4_Green's_theorem.pdf)
     5. [Divergence and Curl](/assets/spr22/MultiCalc/17.5_Divergence_and_Curl.pdf)
     6. [Surface Integrals](/assets/spr22/MultiCalc/17.6_Surface_integrals.pdf)
     7. [Stokes' Theorem](/assets/spr22/MultiCalc/17.7_Stokes'_Theorem.pdf)
@@ -77,3 +77,4 @@ tags: school
 
   - [Review Cards From Discord](/assets/spr22/MultiCalc/2153_rev_cards.pdf)
   - [Exam 3 Equation Sheet](/assets/spr22/MultiCalc/Equation_Sheet_Exam_3_Math_2153.pdf)
+  - [Exam 3 Review](/vault/assets/spr22/MultiCalc/Exam_3-review.pdf)
