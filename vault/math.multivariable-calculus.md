@@ -77,4 +77,4 @@ tags: school
 
   - [Review Cards From Discord](/assets/spr22/MultiCalc/2153_rev_cards.pdf)
   - [Exam 3 Equation Sheet](/assets/spr22/MultiCalc/Equation_Sheet_Exam_3_Math_2153.pdf)
-  - [Exam 3 Review](/vault/assets/spr22/MultiCalc/Exam_3-review.pdf)
+  - [Exam 3 Review](/assets/spr22/MultiCalc/Exam_3-review.pdf)
