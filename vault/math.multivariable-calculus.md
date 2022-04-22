@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1649987748940
+updated: 1650642671232
 created: 1640151500021
 tags: school
 ---
@@ -48,7 +48,7 @@ tags: school
     5. [Divergence and Curl](/assets/spr22/MultiCalc/17.5_Divergence_and_Curl.pdf)
     6. [Surface Integrals](/assets/spr22/MultiCalc/17.6_Surface_integrals.pdf)
     7. [Stokes' Theorem](/assets/spr22/MultiCalc/17.7_Stokes'_Theorem.pdf)
-
+    8. [Divergence Theorem](/assets/spr22/MultiCalc/17.8_Divergence_Theorem.pdf)
 
 ## Resources 
 
