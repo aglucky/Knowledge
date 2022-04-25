@@ -2,7 +2,7 @@
 id: Z8zIqLMYvswnIuU0VrmkB
 title: Multivariable Calculus
 desc: Notes for Math 2153
-updated: 1650642671232
+updated: 1650901131085
 created: 1640151500021
 tags: school
 ---
@@ -78,3 +78,5 @@ tags: school
   - [Review Cards From Discord](/assets/spr22/MultiCalc/2153_rev_cards.pdf)
   - [Exam 3 Equation Sheet](/assets/spr22/MultiCalc/Equation_Sheet_Exam_3_Math_2153.pdf)
   - [Exam 3 Review](/assets/spr22/MultiCalc/Exam_3-review.pdf)
+  - [Final Equation Sheet](/assets/spr22/MultiCalc/Equation_Sheet_Final_Exam_Math_2153.pdf)
+  - [Final Exam Review Part 2](/assets/spr22/MultiCalc/SomeReviewForFinalPart2.pdf)
