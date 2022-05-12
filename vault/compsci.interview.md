@@ -2,7 +2,7 @@
 id: 6qqrjio7nnkje405a1s8jr3
 title: Interview
 desc: ''
-updated: 1652238937646
+updated: 1652377392854
 created: 1652234573507
 ---
 
@@ -16,7 +16,7 @@ created: 1652234573507
   
 ## Books
 
-- [Cracking the Coding Interview](/assets/compsci/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+- [Cracking the Coding Interview](/assets/compsci/Cracking_Code_Interview.pdf)
 - [Elements of Programming Interviews](/assets/compsci/EPI_2016.pdf)
 
 ## Resume/Cover Letter
