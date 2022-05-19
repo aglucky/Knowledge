@@ -21,8 +21,12 @@ commands:
     copyNoteLink: {}
 workspace:
     vaults:
-        -
-            fsPath: vault
+        - 
+            fsPath: .
+            name: vault
+            selfContained: true
+
+
     journal:
         dailyDomain: daily
         name: journal
