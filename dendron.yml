@@ -22,7 +22,9 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: vault
+            fsPath: .
+            name: vault
+            selfContained: true
     journal:
         dailyDomain: daily
         name: journal
@@ -63,8 +65,9 @@ workspace:
         createTaskSelectionType: selection2link
     enableUserTags: true
     enableHashTags: true
-    dendronVersion: 0.88.0
+    dendronVersion: 0.83.0
     enableEditorDecorations: true
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
