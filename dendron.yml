@@ -84,7 +84,7 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    logoPath: vault/assets/images/logo.png
+    # logoPath: vault/assets/images/logo.png
     siteHierarchies:
         - root
     enableSiteLastModified: true
