@@ -2,8 +2,9 @@
 id: c22KmW1rhvQZkNtp1FCkr
 title: Vectors
 desc: ''
-updated: 1642697867015
+updated: 1653346643233
 created: 1641833454971
+nav_exclude: true
 ---
 
 ## General Information
