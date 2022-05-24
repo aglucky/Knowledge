@@ -2,7 +2,7 @@
 id: ik5Bi5OCTsmfKfq5JQtEB
 title: Home
 desc: ''
-updated: 1653346073330
+updated: 1653358479261
 created: 1637610830605
 ---
 ## Adam's Knowledge Base
@@ -13,7 +13,7 @@ created: 1637610830605
 
 I am an undergraduate at **The** Ohio State University studying Computer Science & Engineering. I love cutting edge technology, especially when used it's for Automation, Startups, and Data Analytics.
 
-Some other hobbies of mine include competing on the [OSU Club Wrestling Team](https://ncwa.net/teams/osu), coordinating events for the [Big Data Analytical Association](https://bdaaosu.org/), and whatever [[I'm currently working on|root.what-im-doing]]. I'm always looking for cool stuff to work on so please reach out if you're making of learning something interesting.
+Some other hobbies of mine include competing on the [OSU Club Wrestling Team](https://ncwa.net/teams/osu), coordinating events for the [Big Data Analytical Association](https://bdaaosu.org/), and whatever [[I'm currently working on|what-im-doing]]. I'm always looking for cool stuff to work on so please reach out if you're making of learning something interesting.
 
 ## What This Site Is
 
