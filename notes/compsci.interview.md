@@ -2,7 +2,7 @@
 id: 6qqrjio7nnkje405a1s8jr3
 title: Interview
 desc: ''
-updated: 1652377392854
+updated: 1653408162263
 created: 1652234573507
 ---
 
@@ -36,3 +36,4 @@ created: 1652234573507
 - [Awesom Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Leetcode Patterns](https://github.com/seanprashad/leetcode-patterns)
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Internship Tracker Template](https://docs.google.com/spreadsheets/d/1BXJFwu9a7TDwqVCMPMzDW4FsZCytiAwNdSXAy2Iqlic/edit?usp=sharing)
