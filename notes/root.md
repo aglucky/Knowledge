@@ -2,7 +2,7 @@
 id: ik5Bi5OCTsmfKfq5JQtEB
 title: Home
 desc: ''
-updated: 1653358479261
+updated: 1654149247138
 created: 1637610830605
 ---
 ## Adam's Knowledge Base
@@ -22,6 +22,6 @@ One big issue I have is that I tend to find a lot of great resources for learnin
 ## More
 
 - **[Github](https://github.com/aglucky)**
-- **[Resume](/assets/resume.pdf)**
+- **[Resume](/assets/gluck_resume.pdf)**
 - **[LinkedIn](https://www.linkedin.com/in/adam-gluck-111a2a174/)**
 - **[Email](mailto:adam.gluck10@gmail.com)**
