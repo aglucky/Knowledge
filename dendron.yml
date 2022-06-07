@@ -101,6 +101,7 @@ publishing:
     title: Gluck Notes
     description: Personal knowledge space
   github:
+    cname: glucknotes.com
     enableEditLink: true
     editLinkText: Edit this page on GitHub
     editBranch: main
