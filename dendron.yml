@@ -38,6 +38,7 @@ workspace:
   enableAutoCreateOnDefinition: false
   enableXVaultWikiLink: false
   enableRemoteVaultInit: true
+  enableHandlebarTemplates: true
   workspaceVaultSyncMode: noCommit
   enableAutoFoldFrontmatter: true
   maxPreviewsCached: 10
