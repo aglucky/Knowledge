@@ -12,4 +12,4 @@ created: 1654826794747
 - 2022-06-10
 	- https://glucknotes.com/
 - 2022-06-10
-	- knowledge
+	- diditwork?
