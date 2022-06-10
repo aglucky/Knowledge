@@ -7,6 +7,6 @@ created: 1640209729278
 tags:
   - TODO
   - school
-stub: true
 ---
+
 
