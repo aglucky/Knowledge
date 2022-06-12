@@ -9,3 +9,5 @@ created: 1654826794747
 
 - 2022-06-10
 	- https://web.telegram.org/k/
+- 2022-06-12
+	- https://wordwormdormdork.com/
