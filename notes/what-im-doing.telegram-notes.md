@@ -23,3 +23,5 @@ created: 1654826794747
 	- https://jobs.sequoiacap.com/jobs/?internshipOnly=true
 - 2022-06-13
 	- https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
+- 2022-06-13
+	- https://docs.google.com/spreadsheets/u/0/d/15arh2xiWZ9noq_ogtD_IvfXZ-Np8ZnVdaKEbw0_g-Oo/htmlview#gid=1540676130
