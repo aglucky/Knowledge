@@ -11,3 +11,5 @@ created: 1654826794747
 	- https://web.telegram.org/k/
 - 2022-06-12
 	- https://wordwormdormdork.com/
+- 2022-06-13
+	- https://scrapeops.io/python-scrapy-playbook
