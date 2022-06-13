@@ -15,3 +15,5 @@ created: 1654826794747
 	- https://scrapeops.io/python-scrapy-playbook
 - 2022-06-13
 	- https://algs4.cs.princeton.edu/
+- 2022-06-13
+	- https://courses.csail.mit.edu/6.006/
