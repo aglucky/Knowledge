@@ -17,3 +17,5 @@ created: 1654826794747
 	- https://algs4.cs.princeton.edu/
 - 2022-06-13
 	- https://courses.csail.mit.edu/6.006/
+- 2022-06-13
+	- https://ventureatbrown.com/
