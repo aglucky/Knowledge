@@ -19,3 +19,5 @@ created: 1654826794747
 	- https://courses.csail.mit.edu/6.006/
 - 2022-06-13
 	- https://ventureatbrown.com/
+- 2022-06-13
+	- https://jobs.sequoiacap.com/jobs/?internshipOnly=true
