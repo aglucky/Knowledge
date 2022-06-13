@@ -21,3 +21,5 @@ created: 1654826794747
 	- https://ventureatbrown.com/
 - 2022-06-13
 	- https://jobs.sequoiacap.com/jobs/?internshipOnly=true
+- 2022-06-13
+	- https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
