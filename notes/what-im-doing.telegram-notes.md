@@ -32,4 +32,4 @@ created: 1654826794747
 - 2022-06-17
 	- https://wolfreealpha.github.io/
 - 2022-06-17
-	- https://tinywow.com/
+	- https://www.opensourcealternative.to/
