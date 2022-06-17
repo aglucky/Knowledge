@@ -33,3 +33,5 @@ created: 1654826794747
 	- https://wolfreealpha.github.io/
 - 2022-06-17
 	- https://www.opensourcealternative.to/
+- 2022-06-17
+	- https://localhost.run/
