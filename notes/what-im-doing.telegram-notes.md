@@ -37,3 +37,5 @@ created: 1654826794747
 	- https://localhost.run/
 - 2022-06-18
 	- https://neetcode.io/
+- 2022-06-20
+	- http://crypto.stanford.edu/~dabo/cs255/
