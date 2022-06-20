@@ -38,4 +38,4 @@ created: 1654826794747
 - 2022-06-18
 	- https://neetcode.io/
 - 2022-06-20
-	- http://crypto.stanford.edu/~dabo/cs255/
+	- https://github.com/ForrestKnight/open-source-cs
