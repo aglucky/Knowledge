@@ -39,3 +39,5 @@ created: 1654826794747
 	- https://foxdot.org/ or https://tidalcycles.org/
 - 2022-06-23
 	- https://www.keybr.com/
+- 2022-06-23
+	- https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/captions/seo101.pdf
