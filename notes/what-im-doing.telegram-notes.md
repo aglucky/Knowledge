@@ -42,3 +42,5 @@ created: 1654826794747
 	- https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/captions/seo101.pdf
 - 2022-06-26
 	- https://jameszhanga.notion.site/LC-Tracking-d5df8501cf6542d9aa85e706ddc3a301
+- 2022-06-26
+	- https://gprm.itsvg.in/
