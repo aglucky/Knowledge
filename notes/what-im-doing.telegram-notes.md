@@ -42,4 +42,4 @@ created: 1654826794747
 - 2022-06-23
 	- https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/captions/seo101.pdf
 - 2022-06-26
-	- 
+	- https://neetcode.io/
