@@ -41,3 +41,5 @@ created: 1654826794747
 	- https://www.keybr.com/
 - 2022-06-23
 	- https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/captions/seo101.pdf
+- 2022-06-26
+	- 
