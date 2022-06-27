@@ -44,3 +44,5 @@ created: 1654826794747
 	- https://jameszhanga.notion.site/LC-Tracking-d5df8501cf6542d9aa85e706ddc3a301
 - 2022-06-26
 	- https://gprm.itsvg.in/
+- 2022-06-27
+	- https://rust-unofficial.github.io/too-many-lists/
