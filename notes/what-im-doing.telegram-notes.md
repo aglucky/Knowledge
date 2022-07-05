@@ -48,3 +48,5 @@ created: 1654826794747
 	- https://www.ilovepdf.com/
 - 2022-07-01
 	- https://neetcode.io/
+- 2022-07-05
+	- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-python
