@@ -2,7 +2,7 @@
 id: 5a5cam91e5jjdh0p1jj7vls
 title: Telegram Notes
 desc: ''
-updated: 1656303832914
+updated: 1657138930547
 created: 1654826794747
 ---
 
@@ -30,8 +30,6 @@ created: 1654826794747
 	- https://wolfreealpha.github.io/
 - 2022-06-17
 	- https://www.opensourcealternative.to/
-- 2022-06-17
-	- https://localhost.run/
 - 2022-06-23
 	- https://foxdot.org/ or https://tidalcycles.org/
 - 2022-06-23
@@ -48,8 +46,6 @@ created: 1654826794747
 	- https://www.ilovepdf.com/
 - 2022-07-01
 	- https://neetcode.io/
-- 2022-07-05
-	- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-python
 - 2022-07-05
 	- https://binarysearch.com/
 - 2022-07-06
