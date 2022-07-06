@@ -52,3 +52,5 @@ created: 1654826794747
 	- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/client-library?tabs=visual-studio&pivots=programming-language-python
 - 2022-07-05
 	- https://binarysearch.com/
+- 2022-07-06
+	- 
