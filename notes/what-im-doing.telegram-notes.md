@@ -53,4 +53,4 @@ created: 1654826794747
 - 2022-07-05
 	- https://binarysearch.com/
 - 2022-07-06
-	- 
+	- https://leetcode-company-tagged.vercel.app/
