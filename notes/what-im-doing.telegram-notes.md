@@ -48,7 +48,3 @@ created: 1654826794747
 	- https://neetcode.io/
 - 2022-07-05
 	- https://binarysearch.com/
-- 2022-07-06
-	- https://leetcode-company-tagged.vercel.app/
-- 2022-07-07
-	- http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
