@@ -54,3 +54,5 @@ created: 1654826794747
 	- https://cs170.org
 - 2022-07-07
 	- https://bun.sh/
+- 2022-07-11
+	- https://mystery.knightlab.com/
