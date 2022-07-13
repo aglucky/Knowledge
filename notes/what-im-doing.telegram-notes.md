@@ -56,3 +56,5 @@ created: 1654826794747
 	- https://bun.sh/
 - 2022-07-11
 	- 
+- 2022-07-13
+	- https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md
