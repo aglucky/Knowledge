@@ -59,4 +59,4 @@ created: 1654826794747
 - 2022-07-13
 	- https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md
 - 2022-07-13
-	- https://akshay-iyangar.github.io/system-design/
+	- https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
