@@ -60,3 +60,5 @@ created: 1654826794747
 	- https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md
 - 2022-07-13
 	- https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
+- 2022-07-14
+	- https://glucko.github.io/codeprep/
