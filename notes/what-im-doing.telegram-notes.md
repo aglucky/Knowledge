@@ -2,7 +2,7 @@
 id: 5a5cam91e5jjdh0p1jj7vls
 title: Telegram Notes
 desc: ''
-updated: 1657138930547
+updated: 1657910310281
 created: 1654826794747
 ---
 
@@ -44,21 +44,9 @@ created: 1654826794747
 	- https://rust-unofficial.github.io/too-many-lists/
 - 2022-06-27
 	- https://www.ilovepdf.com/
-- 2022-07-01
-	- https://neetcode.io/
-- 2022-07-05
-	- https://binarysearch.com/
-- 2022-07-06
-	- https://leetcode-company-tagged.vercel.app/
 - 2022-07-07
 	- https://cs170.org
 - 2022-07-07
 	- https://bun.sh/
-- 2022-07-11
+- 2022-07-13
 	- 
-- 2022-07-13
-	- https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md
-- 2022-07-13
-	- https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews
-- 2022-07-14
-	- https://glucko.github.io/codeprep/

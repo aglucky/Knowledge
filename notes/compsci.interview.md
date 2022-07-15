@@ -2,7 +2,7 @@
 id: 6qqrjio7nnkje405a1s8jr3
 title: Interview
 desc: ''
-updated: 1653408162263
+updated: 1657910317150
 created: 1652234573507
 ---
 
@@ -19,6 +19,16 @@ created: 1652234573507
 - [Cracking the Coding Interview](/assets/compsci/Cracking_Code_Interview.pdf)
 - [Elements of Programming Interviews](/assets/compsci/EPI_2016.pdf)
 
+## Leetcode
+
+- [Leetcode Patterns](https://github.com/seanprashad/leetcode-patterns)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Grokking the Coding Interview](https://glucko.github.io/codeprep/)
+- [Python Trick](https://github.com/amirgamil/Python-Interview-Tricks/blob/main/README.md)
+- [Tags by Company](https://leetcode-company-tagged.vercel.app/)
+- [Group Studying](https://binarysearch.com/)
+- [Neetcode](https://neetcode.io/)
+
 ## Resume/Cover Letter
 
 - [MIT](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
@@ -33,7 +43,5 @@ created: 1652234573507
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
-- [Awesom Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
-- [Leetcode Patterns](https://github.com/seanprashad/leetcode-patterns)
-- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions)
 - [Internship Tracker Template](https://docs.google.com/spreadsheets/d/1BXJFwu9a7TDwqVCMPMzDW4FsZCytiAwNdSXAy2Iqlic/edit?usp=sharing)
