@@ -50,3 +50,5 @@ created: 1654826794747
 	- https://bun.sh/
 - 2022-07-13
 	- 
+- 2022-07-18
+	- https://www.eecs70.org/
