@@ -52,3 +52,5 @@ created: 1654826794747
 	- 
 - 2022-07-18
 	- https://www.eecs70.org/
+- 2022-07-22
+	- https://courses.csail.mit.edu/6.006/fall11/notes.shtml
