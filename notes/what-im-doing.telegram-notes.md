@@ -54,3 +54,5 @@ created: 1654826794747
 	- https://www.eecs70.org/
 - 2022-07-22
 	- https://courses.csail.mit.edu/6.006/fall11/notes.shtml
+- 2022-07-25
+	- https://app.codesignal.com/signup?certifiedInvite=NELuPJjaM3NcKEphR
