@@ -58,3 +58,5 @@ created: 1654826794747
 	- https://app.codesignal.com/signup?certifiedInvite=NELuPJjaM3NcKEphR
 - 2022-07-26
 	- https://pittcs.wiki/career/freshman-sophomore-opportunities/
+- 2022-07-26
+	- https://hrweb.berkeley.edu/sites/default/files/attachments/action-verbs.pdf
