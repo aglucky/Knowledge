@@ -60,3 +60,5 @@ created: 1654826794747
 	- https://pittcs.wiki/career/freshman-sophomore-opportunities/
 - 2022-07-26
 	- https://hrweb.berkeley.edu/sites/default/files/attachments/action-verbs.pdf
+- 2022-07-30
+	- https://www.hackerrank.com/career-fair/fall2021/exhibitors
