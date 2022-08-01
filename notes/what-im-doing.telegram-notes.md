@@ -64,3 +64,5 @@ created: 1654826794747
 	- https://www.hackerrank.com/career-fair/fall2021/exhibitors
 - 2022-08-01
 	- https://kakoune.org/why-kakoune/why-kakoune.html#_why_kakoune
+- 2022-08-01
+	- https://youtu.be/oBt53YbR9Kk
