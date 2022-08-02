@@ -66,3 +66,5 @@ created: 1654826794747
 	- https://kakoune.org/why-kakoune/why-kakoune.html#_why_kakoune
 - 2022-08-01
 	- https://youtu.be/oBt53YbR9Kk
+- 2022-08-02
+	- https://github.com/gradio-app/gradio
