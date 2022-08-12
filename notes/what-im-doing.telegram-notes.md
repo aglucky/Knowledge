@@ -68,3 +68,5 @@ created: 1654826794747
 	- https://youtu.be/oBt53YbR9Kk
 - 2022-08-02
 	- https://github.com/gradio-app/gradio
+- 2022-08-12
+	- https://airtable.com/shrxIWjZgujl9wD9t/tbliXIwvTPcWF6efd
