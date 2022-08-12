@@ -70,3 +70,5 @@ created: 1654826794747
 	- https://github.com/gradio-app/gradio
 - 2022-08-12
 	- https://airtable.com/shrxIWjZgujl9wD9t/tbliXIwvTPcWF6efd
+- 2022-08-12
+	- https://www.scarletink.com/interviewing-at-amazon-leadership-principles/
