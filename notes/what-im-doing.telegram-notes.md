@@ -72,3 +72,5 @@ created: 1654826794747
 	- https://airtable.com/shrxIWjZgujl9wD9t/tbliXIwvTPcWF6efd
 - 2022-08-12
 	- https://www.scarletink.com/interviewing-at-amazon-leadership-principles/
+- 2022-08-13
+	- https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit
