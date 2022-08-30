@@ -1,6 +1,6 @@
 ---
 id: wiwxbksppjt9ttpkx2u0dr3
-title: Ece 2060
+title: ECE 2060
 desc: ''
 updated: 1661458387691
 created: 1661456151366
@@ -20,7 +20,7 @@ created: 1661456151366
 
 - [Basic Binary Operations](/assets/fall22/ECE_2060/Section_2-1_and_2-2.pdf)
 - [Boolean Expressions & Truth Tables + Basic Theorems](/assets/fall22/ECE_2060/Section_2-3_and_2-4.pdf)
-- [Commutative, Associative, Distributive, and De Morgan’s Laws](/assets/fall22/ECE_2060/Section_25.pdf)
+- [Commutative, Associative, Distributive, and De Morgan’s Laws](/assets/fall22/ECE_2060/Section_2-5.pdf)
 - [Simplification Theorems](/assets/fall22/ECE_2060/Section_2-6.pdf)
 - [Multiplying out and factoring](/assets/fall22/ECE_2060/Section_2-7.pdf)
 - [Complementing Boolean Expressions](/assets/fall22/ECE_2060/Section_2-8.pdf)
