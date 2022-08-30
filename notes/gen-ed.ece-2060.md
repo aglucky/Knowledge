@@ -1,6 +1,6 @@
 ---
 id: wiwxbksppjt9ttpkx2u0dr3
-title: Ece 2060
+title: ECE 2060
 desc: ''
 updated: 1661458387691
 created: 1661456151366
