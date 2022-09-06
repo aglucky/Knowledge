@@ -2,13 +2,13 @@
 id: vyytrejqisgr1t972sgfgs0
 title: BUSHMR-3510
 desc: ''
-updated: 1662054272627
+updated: 1662479077995
 created: 1661468452366
 ---
 ## Readings
 
-- [Hotel Vertu](/assets/fall22/Busmhr_3510/Hotel-Vertu.pdf)
-
+- [Hotel Vertu Case Study](/assets/fall22/Busmhr_3510/Hotel-Vertu.pdf)
+- [Tesla Case Study](/assets/fall22/Busmhr_3510/Tesla_Case_Study.pdf)
 ## More
 
 - [Syllabus](/assets/fall22/Busmhr_3510/Syllabus.pdf)
