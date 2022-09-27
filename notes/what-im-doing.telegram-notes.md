@@ -76,3 +76,5 @@ created: 1654826794747
 	- https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit
 - 2022-09-20
 	- https://buildwithalex.notion.site/buildwithalex/
+- 2022-09-27
+	- https://www.codinginterview.com/amazon
