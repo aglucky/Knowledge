@@ -78,3 +78,5 @@ created: 1654826794747
 	- https://buildwithalex.notion.site/buildwithalex/
 - 2022-09-27
 	- https://www.codinginterview.com/amazon
+- 2022-10-26
+	- https://www.notion.so/2022-Email-List-db36aa34059346b5b9601d94c674286a
