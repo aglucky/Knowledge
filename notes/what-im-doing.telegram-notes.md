@@ -79,4 +79,4 @@ created: 1654826794747
 - 2022-09-27
 	- https://www.codinginterview.com/amazon
 - 2022-10-26
-	- https://www.notion.so/2022-Email-List-db36aa34059346b5b9601d94c674286a
+	- https://www.cs.cornell.edu/courses/cs2112/2018fa/lectures/lecture.html?id=traversals
