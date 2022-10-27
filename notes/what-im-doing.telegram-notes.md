@@ -81,4 +81,4 @@ created: 1654826794747
 - 2022-10-26
 	- https://www.cs.cornell.edu/courses/cs2112/2018fa/lectures/lecture.html?id=traversals
 - 2022-10-27
-	- https://www.cs.cornell.edu/courses/cs4110/2018fa/
+	- https://books.codepath.org/student-handbook/
