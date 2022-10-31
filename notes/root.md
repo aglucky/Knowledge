@@ -19,7 +19,7 @@ Some other hobbies of mine include competing on the [OSU Club Wrestling Team](ht
 
 One big issue I have is that I tend to find a lot of great resources for learning a topic, but lose the, due to disorganization. To combat this pesky issue, I created this site as sort of a second brain to store things of interest. This site contains everything from my class notes to vim guides. If you would like anything added, feel free to send me an email.
 
-## More
+## Links
 
 - **[Github](https://github.com/aglucky)**
 - **[Resume](/assets/gluck_resume.pdf)**
