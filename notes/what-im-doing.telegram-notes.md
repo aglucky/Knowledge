@@ -82,3 +82,6 @@ created: 1654826794747
 	- https://www.cs.cornell.edu/courseinfo/listofcscourses
 - 2022-10-27
  	- https://books.codepath.org/student-handbook/
+
+- 2022-11-02
+	- https://magenta.tensorflow.org/get-started
