@@ -85,3 +85,5 @@ created: 1654826794747
 
 - 2022-11-02
 	- https://magenta.tensorflow.org/get-started
+- 2022-11-09
+	- https://refactoring.guru/design-patterns/creational-patterns
