@@ -24,4 +24,4 @@ One big issue I have is that I tend to find a lot of great resources for learnin
 - **[Github](https://github.com/aglucky)**
 - **[Resume](/assets/gluck_resume.pdf)**
 - **[LinkedIn](https://www.linkedin.com/in/adam-gluck-111a2a174/)**
-- **[Email](mailto:adam.gluck10@gmail.com)**
+- **Email: Adam.gluck10@gmail.com**
