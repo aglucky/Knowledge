@@ -89,3 +89,5 @@ created: 1654826794747
 	- https://refactoring.guru/design-patterns/creational-patterns
 - 2023-01-14
 	- https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d
+- 2023-02-04
+	- https://img.ly/blog/ultimate-guide-to-ffmpeg/#ffmpeg-s-command-line-system
