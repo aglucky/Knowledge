@@ -91,3 +91,5 @@ created: 1654826794747
 	- https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d
 - 2023-02-04
 	- https://img.ly/blog/ultimate-guide-to-ffmpeg/#ffmpeg-s-command-line-system
+- 2023-02-05
+	- https://labs.kagi.com/ai/sum?url=https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
