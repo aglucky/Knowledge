@@ -95,3 +95,5 @@ created: 1654826794747
 	- https://labs.kagi.com/ai/sum?url=https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 - 2023-02-05
 	- http://www.structuredprocrastination.com/
+- 2023-03-01
+	- https://www.crul.com
