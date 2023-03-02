@@ -97,3 +97,5 @@ created: 1654826794747
 	- http://www.structuredprocrastination.com/
 - 2023-03-01
 	- https://www.crul.com
+- 2023-03-02
+	- https://free-for.dev/
