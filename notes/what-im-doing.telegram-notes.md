@@ -99,3 +99,5 @@ created: 1654826794747
 	- https://www.crul.com
 - 2023-03-02
 	- https://free-for.dev/
+- 2023-07-02
+	- https://cooklang.org
