@@ -101,3 +101,5 @@ created: 1654826794747
 	- https://free-for.dev/
 - 2023-07-02
 	- https://cooklang.org
+- 2023-10-14
+	- https://dotclub.club/
