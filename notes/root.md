@@ -26,4 +26,4 @@ One big issue I have is that I tend to find a lot of great resources for learnin
 - **[LinkedIn](https://www.linkedin.com/in/adam-gluck-111a2a174/)**
 - **Email: Adam.gluck10@gmail.com**
 
-**Note: This site it no longer being updated**
+## Note: This site is no longer being updated
