@@ -1,0 +1,84 @@
+<h1 id="web-scraping">Web Scraping<a aria-hidden="true" class="anchor-heading icon-link" href="#web-scraping"></a></h1>
+<h2 id="scraping-stacks">Scraping Stacks<a aria-hidden="true" class="anchor-heading icon-link" href="#scraping-stacks"></a></h2>
+<ul>
+<li><strong>Scrapy</strong>
+<ul>
+<li>Full Framework</li>
+<li>Support for many tools below</li>
+<li>Good for big projects</li>
+</ul>
+</li>
+<li>Requests/Beautiful Soup/Pandas
+<ul>
+<li>Good for beginners</li>
+<li>Easy use with Google Colab</li>
+<li>Speed can be improved via multithreading libraries such as asyncio</li>
+</ul>
+</li>
+<li>Selenium/Pandas
+<ul>
+<li>Slowest but also extremely versatile</li>
+</ul>
+</li>
+</ul>
+<h2 id="essential-tools">Essential Tools<a aria-hidden="true" class="anchor-heading icon-link" href="#essential-tools"></a></h2>
+<ul>
+<li>Developer Tools (I use Edge)
+<ul>
+<li>XPath Testing</li>
+<li>Copy API requests as Curl (bash)
+<ul>
+<li>Convert with Curl to Python website</li>
+</ul>
+</li>
+<li>View webpage source files/storage</li>
+</ul>
+</li>
+<li>Regular Expressions
+<ul>
+<li>Data extraction when site structure is poor</li>
+<li>Versatile, but steep learning curve</li>
+</ul>
+</li>
+<li>XPaths
+<ul>
+<li>Harder than Beautiful Soup but easier than Regular Expressions</li>
+<li>Easily tested in devtools</li>
+</ul>
+</li>
+<li>CSS Selectors
+<ul>
+<li>More readable than XPaths</li>
+<li>Not always applicable</li>
+</ul>
+</li>
+<li>Splash
+<ul>
+<li>Can be used to render javascript without selenium</li>
+<li>Great Integration with Scrapy</li>
+</ul>
+</li>
+</ul>
+<h2 id="deciding-what-stack-to-use">Deciding What Stack To Use<a aria-hidden="true" class="anchor-heading icon-link" href="#deciding-what-stack-to-use"></a></h2>
+<div class="mermaid">
+  graph TD;
+
+1(start)-->q1
+q1{Is Site Static?}-- No -->q2{Does Site Use &#x3C;br> Api for Data?}
+q2-- Yes --> e1(Recreate requests in Colab &#x3C;br>Notebook  and convert responses &#x3C;br>to pandas datafasme);
+q2-- No --> q4{What is the scale &#x3C;br> of the project?}
+q4-- Larger Scale --> e4(Scrapy Project Using &#x3C;br>Selenium or Splash)
+q4-- Smaller Scale --> e5(Selenium Project)
+q1-- Yes --> q3{What is the scale &#x3C;br> of the project?}
+q3-- Larger Scale --> e2(Create Scrapy Project)
+q3-- Smaller Scale --> e3(Requests and Beautiful Soup &#x3C;br>in Colab Notebok)
+
+</div>
+<h2 id="things-to-consider">Things to Consider<a aria-hidden="true" class="anchor-heading icon-link" href="#things-to-consider"></a></h2>
+<ul>
+<li>How much time will I be spending on this?</li>
+<li>Do I want to risk my IP being blocked (Colab great workaround)</li>
+<li>How much data am I collecting (csv vs Database storage)</li>
+<li>How often will the site be scraped</li>
+<li>Legality/Morality of scrape</li>
+</ul>

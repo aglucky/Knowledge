@@ -1,0 +1,233 @@
+{
+  "roots": [
+    {
+      "key": "FPjLC17J7C0fbboGPt7fE",
+      "title": "Computer Science",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "w4u0bbp6mrog9iih8dl9523",
+          "title": "Data",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "a6kFvecTMUxXtmCBgiScY",
+              "title": "Open Courses",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "dNglx9E2Q0wCABrKbfknx",
+          "title": "Development and Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "qgG6FxYHRQOWUTbqlONqT",
+          "title": "Discrete Structures",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "9PTbvU9AW1S2HMuY3MzUO",
+          "title": "Hackathon",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "v562evfpexamdoo23gq7uep",
+          "title": "Haskell",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "6qqrjio7nnkje405a1s8jr3",
+          "title": "Interview",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "kosx1jfsyu51awns6wp0aub",
+          "title": "Vim",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "5TSx68IYHZjI1cHGba8gU",
+          "title": "Web Scraping",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "rf77cskqqdis7iphbr6n69c",
+      "title": "Curated Resources",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "qJVQpSGspGEf5Rpn2u9lB",
+      "title": "Gen Ed",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "vyytrejqisgr1t972sgfgs0",
+          "title": "BUSHMR-3510",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "vx3g9fem4doh85a0rhurlfa",
+          "title": "STAT-3470",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "wiwxbksppjt9ttpkx2u0dr3",
+          "title": "ECE 2060",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "inplatzg4yxpeigrcyk91q7",
+          "title": "Hebrew-2700H",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "ykJFSHBzDetVjhB8t7XeY",
+          "title": "Philo 2367",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "yupst62qwona652nyhhcar1",
+          "title": "Philos 1338",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "vi6yhdzlK5dncfpklrolk",
+      "title": "Math",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "Z8zIqLMYvswnIuU0VrmkB",
+          "title": "Multivariable Calculus",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ipjj98ie54pho326xznoosj",
+      "title": "What Im Doing",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "5a5cam91e5jjdh0p1jj7vls",
+          "title": "Telegram Notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "FPjLC17J7C0fbboGPt7fE": null,
+    "w4u0bbp6mrog9iih8dl9523": "FPjLC17J7C0fbboGPt7fE",
+    "a6kFvecTMUxXtmCBgiScY": "w4u0bbp6mrog9iih8dl9523",
+    "dNglx9E2Q0wCABrKbfknx": "FPjLC17J7C0fbboGPt7fE",
+    "qgG6FxYHRQOWUTbqlONqT": "FPjLC17J7C0fbboGPt7fE",
+    "9PTbvU9AW1S2HMuY3MzUO": "FPjLC17J7C0fbboGPt7fE",
+    "v562evfpexamdoo23gq7uep": "FPjLC17J7C0fbboGPt7fE",
+    "6qqrjio7nnkje405a1s8jr3": "FPjLC17J7C0fbboGPt7fE",
+    "kosx1jfsyu51awns6wp0aub": "FPjLC17J7C0fbboGPt7fE",
+    "5TSx68IYHZjI1cHGba8gU": "FPjLC17J7C0fbboGPt7fE",
+    "rf77cskqqdis7iphbr6n69c": null,
+    "qJVQpSGspGEf5Rpn2u9lB": null,
+    "vyytrejqisgr1t972sgfgs0": "qJVQpSGspGEf5Rpn2u9lB",
+    "vx3g9fem4doh85a0rhurlfa": "qJVQpSGspGEf5Rpn2u9lB",
+    "wiwxbksppjt9ttpkx2u0dr3": "qJVQpSGspGEf5Rpn2u9lB",
+    "inplatzg4yxpeigrcyk91q7": "qJVQpSGspGEf5Rpn2u9lB",
+    "ykJFSHBzDetVjhB8t7XeY": "qJVQpSGspGEf5Rpn2u9lB",
+    "yupst62qwona652nyhhcar1": "qJVQpSGspGEf5Rpn2u9lB",
+    "vi6yhdzlK5dncfpklrolk": null,
+    "Z8zIqLMYvswnIuU0VrmkB": "vi6yhdzlK5dncfpklrolk",
+    "ipjj98ie54pho326xznoosj": null,
+    "5a5cam91e5jjdh0p1jj7vls": "ipjj98ie54pho326xznoosj"
+  },
+  "notesLabelById": {
+    "FPjLC17J7C0fbboGPt7fE": "Computer Science",
+    "w4u0bbp6mrog9iih8dl9523": "Data",
+    "a6kFvecTMUxXtmCBgiScY": "Open Courses",
+    "dNglx9E2Q0wCABrKbfknx": "Development and Design",
+    "qgG6FxYHRQOWUTbqlONqT": "Discrete Structures",
+    "9PTbvU9AW1S2HMuY3MzUO": "Hackathon",
+    "v562evfpexamdoo23gq7uep": "Haskell",
+    "6qqrjio7nnkje405a1s8jr3": "Interview",
+    "kosx1jfsyu51awns6wp0aub": "Vim",
+    "5TSx68IYHZjI1cHGba8gU": "Web Scraping",
+    "rf77cskqqdis7iphbr6n69c": "Curated Resources",
+    "qJVQpSGspGEf5Rpn2u9lB": "Gen Ed",
+    "vyytrejqisgr1t972sgfgs0": "BUSHMR-3510",
+    "vx3g9fem4doh85a0rhurlfa": "STAT-3470",
+    "wiwxbksppjt9ttpkx2u0dr3": "ECE 2060",
+    "inplatzg4yxpeigrcyk91q7": "Hebrew-2700H",
+    "ykJFSHBzDetVjhB8t7XeY": "Philo 2367",
+    "yupst62qwona652nyhhcar1": "Philos 1338",
+    "vi6yhdzlK5dncfpklrolk": "Math",
+    "Z8zIqLMYvswnIuU0VrmkB": "Multivariable Calculus",
+    "ipjj98ie54pho326xznoosj": "What Im Doing",
+    "5a5cam91e5jjdh0p1jj7vls": "Telegram Notes"
+  }
+}

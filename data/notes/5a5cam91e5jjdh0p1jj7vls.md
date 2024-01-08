@@ -1,0 +1,98 @@
+
+- 2022-06-12
+	- https://wordwormdormdork.com/
+- 2022-06-13
+	- https://scrapeops.io/python-scrapy-playbook
+- 2022-06-13
+	- https://algs4.cs.princeton.edu/
+- 2022-06-13
+	- https://courses.csail.mit.edu/6.006/
+- 2022-06-13
+	- https://ventureatbrown.com/
+- 2022-06-13
+	- https://jobs.sequoiacap.com/jobs/?internshipOnly=true
+- 2022-06-13
+	- https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4
+- 2022-06-13
+	- https://docs.google.com/spreadsheets/u/0/d/15arh2xiWZ9noq_ogtD_IvfXZ-Np8ZnVdaKEbw0_g-Oo/htmlview#gid=1540676130
+- 2022-06-17
+	- https://github.com/Fus-Ro-Dah/Summer2023-Underclassman-Internships
+- 2022-06-17
+	- https://api.producthunt.com/v2/docs
+- 2022-06-17
+	- https://wolfreealpha.github.io/
+- 2022-06-17
+	- https://www.opensourcealternative.to/
+- 2022-06-23
+	- https://foxdot.org/ or https://tidalcycles.org/
+- 2022-06-23
+	- https://www.keybr.com/
+- 2022-06-23
+	- https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/captions/seo101.pdf
+- 2022-06-26
+	- https://jameszhanga.notion.site/LC-Tracking-d5df8501cf6542d9aa85e706ddc3a301
+- 2022-06-26
+	- https://gprm.itsvg.in/
+- 2022-06-27
+	- https://rust-unofficial.github.io/too-many-lists/
+- 2022-06-27
+	- https://www.ilovepdf.com/
+- 2022-07-07
+	- https://cs170.org
+- 2022-07-07
+	- https://bun.sh/
+- 2022-07-18
+	- https://www.eecs70.org/
+- 2022-07-22
+	- https://courses.csail.mit.edu/6.006/fall11/notes.shtml
+- 2022-07-25
+	- https://app.codesignal.com/signup?certifiedInvite=NELuPJjaM3NcKEphR
+- 2022-07-26
+	- https://pittcs.wiki/career/freshman-sophomore-opportunities/
+- 2022-07-26
+	- https://hrweb.berkeley.edu/sites/default/files/attachments/action-verbs.pdf
+- 2022-07-30
+	- https://www.hackerrank.com/career-fair/fall2021/exhibitors
+- 2022-08-01
+	- https://kakoune.org/why-kakoune/why-kakoune.html#_why_kakoune
+- 2022-08-01
+	- https://youtu.be/oBt53YbR9Kk
+- 2022-08-02
+	- https://github.com/gradio-app/gradio
+- 2022-08-12
+	- https://airtable.com/shrxIWjZgujl9wD9t/tbliXIwvTPcWF6efd
+- 2022-08-12
+	- https://www.scarletink.com/interviewing-at-amazon-leadership-principles/
+- 2022-08-13
+	- https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/edit
+- 2022-09-20
+	- https://buildwithalex.notion.site/buildwithalex/
+- 2022-09-27
+	- https://www.codinginterview.com/amazon
+- 2022-10-26
+	- https://www.cs.cornell.edu/courses/cs2112/2018fa/lectures/lecture.html?id=traversals
+- 2022-10-27
+	- https://www.cs.cornell.edu/courseinfo/listofcscourses
+- 2022-10-27
+ 	- https://books.codepath.org/student-handbook/
+
+- 2022-11-02
+	- https://magenta.tensorflow.org/get-started
+- 2022-11-09
+	- https://refactoring.guru/design-patterns/creational-patterns
+- 2023-01-14
+	- https://medium.com/@stevenzhang/how-i-landed-18-faang-software-engineer-offers-after-not-interviewing-for-5-years-fc0dfc957a5d
+- 2023-02-04
+	- https://img.ly/blog/ultimate-guide-to-ffmpeg/#ffmpeg-s-command-line-system
+- 2023-02-05
+	- https://labs.kagi.com/ai/sum?url=https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+- 2023-02-05
+	- http://www.structuredprocrastination.com/
+- 2023-03-01
+	- https://www.crul.com
+- 2023-03-02
+	- https://free-for.dev/
+- 2023-07-02
+	- https://cooklang.org
+- 2023-10-14
+	- https://dotclub.club/
